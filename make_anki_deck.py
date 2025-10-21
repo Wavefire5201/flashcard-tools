@@ -8,11 +8,6 @@ import genanki
 
 AUDIO_BASE_URL = "https://laits.utexas.edu/japanese/joshu/vocabulary/vocabflashcard/"
 
-
-def get_random_model_id() -> int:
-    return random.randrange(1 << 30, 1 << 31)
-
-
 yookosu_vocab_model = genanki.Model(
     1607392320,
     "Vocab Model",
@@ -30,6 +25,11 @@ yookosu_vocab_model = genanki.Model(
         },
     ],
 )
+
+
+def get_random_model_id() -> int:
+    """Generate a random model ID."""
+    return random.randrange(1 << 30, 1 << 31)
 
 
 def download_audio(url: str, output_dir: str) -> str:
@@ -57,6 +57,7 @@ def download_audio(url: str, output_dir: str) -> str:
 
 
 def create_chapter_decks(file_name: str):
+    """Create Anki decks for each chapter in the given JSON file."""
     with open(file_name, "r") as f:
         file: dict = json.load(f)
 
@@ -116,12 +117,5 @@ def create_chapter_decks(file_name: str):
         print(f"Created chapter deck: {output_path}\n")
 
 
-def create_topic_decks(): ...
-
-
-def main():
-    create_chapter_decks("./data/vol1_extracted.json")
-
-
-if __name__ == "__main__":
-    main()
+def create_topic_decks(file_name: str):
+    """Create Anki decks for each topic in the given JSON file."""
