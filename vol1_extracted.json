@@ -1,0 +1,4212 @@
+{
+  "Getting Started": [
+    {
+      "Numbers 1 ~ 10,000": [
+        {
+          "kanji": "",
+          "furigana": "34",
+          "english": "\u3055\u3093\u3058\u3085\u3046\u3088\u3093",
+          "audio_url": "../audio/y1/601D_numbers/34"
+        },
+        {
+          "kanji": "",
+          "furigana": "66",
+          "english": "\u308d\u304f\u3058\u3085\u3046\u308d\u304f",
+          "audio_url": "../audio/y1/601D_numbers/66"
+        },
+        {
+          "kanji": "",
+          "furigana": "87",
+          "english": "\u306f\u3061\u3058\u3085\u3046\u306a\u306a",
+          "audio_url": "../audio/y1/601D_numbers/87"
+        },
+        {
+          "kanji": "",
+          "furigana": "108",
+          "english": "\u3072\u3083\u304f\u306f\u3061",
+          "audio_url": "../audio/y1/601D_numbers/108"
+        },
+        {
+          "kanji": "",
+          "furigana": "196",
+          "english": "\u3072\u3083\u304f\u304d\u3085\u3046\u3058\u3085\u3046\u308d\u304f",
+          "audio_url": "../audio/y1/601D_numbers/196"
+        },
+        {
+          "kanji": "",
+          "furigana": "469",
+          "english": "\u3088\u3093\u3072\u3083\u304f\u308d\u304f\u3058\u3085\u3046\u304d\u3085\u3046",
+          "audio_url": "../audio/y1/601D_numbers/469"
+        },
+        {
+          "kanji": "",
+          "furigana": "555",
+          "english": "\u3054\u3072\u3083\u304f\u3054\u3058\u3085\u3046\u3054",
+          "audio_url": "../audio/y1/601D_numbers/555"
+        },
+        {
+          "kanji": "",
+          "furigana": "803",
+          "english": "\u306f\u3063\u3074\u3083\u304f\u3055\u3093",
+          "audio_url": "../audio/y1/601D_numbers/803"
+        },
+        {
+          "kanji": "",
+          "furigana": "1,001",
+          "english": "\u305b\u3093\u3044\u3061",
+          "audio_url": "../audio/y1/601D_numbers/1001"
+        },
+        {
+          "kanji": "",
+          "furigana": "1,562",
+          "english": "\u305b\u3093\u3054\u3072\u3083\u304f\u308d\u304f\u3058\u3085\u3046\u306b",
+          "audio_url": "../audio/y1/601D_numbers/1562"
+        },
+        {
+          "kanji": "",
+          "furigana": "2,073",
+          "english": "\u306b\u305b\u3093\u306a\u306a\u3058\u3085\u3046\u3055\u3093",
+          "audio_url": "../audio/y1/601D_numbers/2073"
+        },
+        {
+          "kanji": "",
+          "furigana": "6,666",
+          "english": "\u308d\u304f\u305b\u3093\u308d\u3063\u3074\u3083\u304f\u308d\u304f\u3058\u3085\u3046\u308d\u304f",
+          "audio_url": "../audio/y1/601D_numbers/6666"
+        },
+        {
+          "kanji": "",
+          "furigana": "8,906",
+          "english": "\u306f\u3063\u305b\u3093\u304d\u3085\u3046\u3072\u3083\u304f\u308d\u304f",
+          "audio_url": "../audio/y1/601D_numbers/8906"
+        },
+        {
+          "kanji": "",
+          "furigana": "9,713",
+          "english": "\u304d\u3085\u3046\u305b\u3093\u306a\u306a\u3072\u3083\u304f\u3058\u3085\u3046\u3055\u3093",
+          "audio_url": "../audio/y1/601D_numbers/9713"
+        }
+      ]
+    }
+  ],
+  "Chapter 1": [
+    {
+      "Nationalities and Languages": [
+        {
+          "kanji": "",
+          "furigana": "\u306b\u307b\u3093",
+          "english": "Japan",
+          "audio_url": "../audio/y1/Ch1/Nationalities_Languages/Ch1_nihon"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u306b\u307b\u3093\u3058\u3093",
+          "english": "Japanese (person)",
+          "audio_url": "../audio/y1/Ch1/Nationalities_Languages/Ch1_nihonjin"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u306b\u307b\u3093\u3054",
+          "english": "Japanese (language)",
+          "audio_url": "../audio/y1/Ch1/Nationalities_Languages/Ch1_nihongo"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u30a2\u30e1\u30ea\u30ab",
+          "english": "U.S",
+          "audio_url": "../audio/y1/Ch1/Nationalities_Languages/Ch1_"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u30a2\u30e1\u30ea\u30ab\u3058\u3093",
+          "english": "American (person)",
+          "audio_url": "../audio/y1/Ch1/Nationalities_Languages/Ch1_Ch1_amerikajin"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3048\u3044\u3054",
+          "english": "English (langauge)",
+          "audio_url": "../audio/y1/Ch1/Nationalities_Languages/Ch1_eigo"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u30a4\u30ae\u30ea\u30b9",
+          "english": "England",
+          "audio_url": "../audio/y1/Ch1/Nationalities_Languages/Ch1_igirisu"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u30a4\u30ae\u30ea\u30b9\u3058\u3093",
+          "english": "British (person)",
+          "audio_url": "../audio/y1/Ch1/Nationalities_Languages/Ch1_igirisujin"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u30a4\u30bf\u30ea\u30a2",
+          "english": "Italy",
+          "audio_url": "../audio/y1/Ch1/Nationalities_Languages/Ch1_itaria"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u30a4\u30bf\u30ea\u30a2\u3058\u3093",
+          "english": "Italian (person)",
+          "audio_url": "../audio/y1/Ch1/Nationalities_Languages/Ch1_itariajin"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u30a4\u30bf\u30ea\u30a2\u3054",
+          "english": "Italian (Language)",
+          "audio_url": "../audio/y1/Ch1/Nationalities_Languages/Ch1_itariago"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u30ab\u30ca\u30c0",
+          "english": "Canada",
+          "audio_url": "../audio/y1/Ch1/Nationalities_Languages/Ch1_"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u30ab\u30ca\u30c0\u3058\u3093",
+          "english": "Canadian (person)",
+          "audio_url": "../audio/y1/Ch1/Nationalities_Languages/Ch1_kanadajin"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u304b\u3093\u3053\u304f",
+          "english": "Korea",
+          "audio_url": "../audio/y1/Ch1/Nationalities_Languages/Ch1_kankoku"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u304b\u3093\u3053\u304f\u3058\u3093",
+          "english": "Korean (person)",
+          "audio_url": "../audio/y1/Ch1/Nationalities_Languages/Ch1_kankokujin"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u304b\u3093\u3053\u304f\u3054",
+          "english": "Korean (language)",
+          "audio_url": "../audio/y1/Ch1/Nationalities_Languages/Ch1_kankokugo"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u30b7\u30f3\u30ac\u30dd\u30fc\u30eb",
+          "english": "Singapore",
+          "audio_url": "../audio/y1/Ch1/Nationalities_Languages/Ch1_shingapooru"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u30b7\u30f3\u30ac\u30dd\u30fc\u30eb\u3058\u3093",
+          "english": "Singaporean",
+          "audio_url": "../audio/y1/Ch1/Nationalities_Languages/Ch1_"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u30b9\u30da\u30a4\u30f3",
+          "english": "Spain",
+          "audio_url": "../audio/y1/Ch1/Nationalities_Languages/Ch1_supein"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u30b9\u30da\u30a4\u30f3\u3058\u3093",
+          "english": "Spanish (person)",
+          "audio_url": "../audio/y1/Ch1/Nationalities_Languages/Ch1_supeinjin"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u30b9\u30da\u30a4\u30f3\u3054",
+          "english": "Spanish (language)",
+          "audio_url": "../audio/y1/Ch1/Nationalities_Languages/Ch1_supeingo"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u305f\u3044\u308f\u3093",
+          "english": "Taiwan",
+          "audio_url": "../audio/y1/Ch1/Nationalities_Languages/Ch1_"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u305f\u3044\u308f\u3093\u3058\u3093",
+          "english": "Taiwanese (person)",
+          "audio_url": "../audio/y1/Ch1/Nationalities_Languages/Ch1_taiwanjin"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3061\u3085\u3046\u3054\u304f",
+          "english": "China",
+          "audio_url": "../audio/y1/Ch1/Nationalities_Languages/Ch1_chuugoku"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3061\u3085\u3046\u3054\u304f\u3058\u3093",
+          "english": "Chinese (person)",
+          "audio_url": "../audio/y1/Ch1/Nationalities_Languages/Ch1_chuugokujin"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3061\u3085\u3046\u3054\u304f\u3054",
+          "english": "Chinese (langauge)",
+          "audio_url": "../audio/y1/Ch1/Nationalities_Languages/Ch1_chuugokugo"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u30c9\u30a4\u30c4",
+          "english": "Germany",
+          "audio_url": "../audio/y1/Ch1/Nationalities_Languages/Ch1_doitsu"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u30c9\u30a4\u30c4\u3058\u3093",
+          "english": "German (person)",
+          "audio_url": "../audio/y1/Ch1/Nationalities_Languages/Ch1_"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u30c9\u30a4\u30c4\u3054",
+          "english": "German (language)",
+          "audio_url": "../audio/y1/Ch1/Nationalities_Languages/Ch1_doitsugo"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u30d6\u30e9\u30b8\u30eb",
+          "english": "Brazil",
+          "audio_url": "../audio/y1/Ch1/Nationalities_Languages/Ch1_burajiru"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u30d6\u30e9\u30b8\u30eb\u3058\u3093",
+          "english": "Brazilian (person)",
+          "audio_url": "../audio/y1/Ch1/Nationalities_Languages/Ch1_burajirujin"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u30dd\u30eb\u30c8\u30ac\u30eb\u3054",
+          "english": "Portuguese (language)",
+          "audio_url": "../audio/y1/Ch1/Nationalities_Languages/Ch1_porutogarugo"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u30d5\u30e9\u30f3\u30b9",
+          "english": "France",
+          "audio_url": "../audio/y1/Ch1/Nationalities_Languages/Ch1_furansu"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u30d5\u30e9\u30f3\u30b9\u3058\u3093",
+          "english": "French (person)",
+          "audio_url": "../audio/y1/Ch1/Nationalities_Languages/Ch1_furansujin"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u30d5\u30e9\u30f3\u30b9\u3054",
+          "english": "French (language)",
+          "audio_url": "../audio/y1/Ch1/Nationalities_Languages/Ch1_furansugo"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u30e1\u30ad\u30b7\u30b3",
+          "english": "Mexico",
+          "audio_url": "../audio/y1/Ch1/Nationalities_Languages/Ch1_mekishiko"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u30e1\u30ad\u30b7\u30b3\u3058\u3093",
+          "english": "Mexican (person)",
+          "audio_url": "../audio/y1/Ch1/Nationalities_Languages/Ch1_mekishikojin"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u30ed\u30b7\u30a2",
+          "english": "Russia",
+          "audio_url": "../audio/y1/Ch1/Nationalities_Languages/Ch1_roshia"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u30ed\u30b7\u30a2\u3058\u3093",
+          "english": "Russian (person)",
+          "audio_url": "../audio/y1/Ch1/Nationalities_Languages/Ch1_roshiajin"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u30ed\u30b7\u30a2\u3054",
+          "english": "Russian (language)",
+          "audio_url": "../audio/y1/Ch1/Nationalities_Languages/Ch1_roshiago"
+        }
+      ]
+    },
+    {
+      "Academic Subjects and Majors": [
+        {
+          "kanji": "",
+          "furigana": "\u3058\u3093\u308b\u3044\u304c\u304f",
+          "english": "Anthropology",
+          "audio_url": "../audio/y1/Ch1/majors/Ch1_jinruigaku"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3073\u3058\u3085\u3064",
+          "english": "Art",
+          "audio_url": "../audio/y1/Ch1/majors/Ch1_bijutsu"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u305b\u3044\u3076\u3064\u304c\u304f",
+          "english": "Biology",
+          "audio_url": "../audio/y1/Ch1/majors/Ch1_seibutsugaku"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u304b\u304c\u304f",
+          "english": "Chemistry",
+          "audio_url": "../audio/y1/Ch1/majors/Ch1_kagaku"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u30b3\u30f3\u30d4\u30e5\u30fc\u30bf\u30fb\u30b5\u30a4\u30a8\u30f3\u30b9",
+          "english": "Computer Science",
+          "audio_url": "../audio/y1/Ch1/majors/Ch1_konpyuutaasaiensu"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3051\u3044\u3056\u3044\u304c\u304f",
+          "english": "Economics",
+          "audio_url": "../audio/y1/Ch1/majors/Ch1_keezaigaku"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u304d\u3087\u3046\u3044\u304f\u304c\u304f",
+          "english": "Education",
+          "audio_url": "../audio/y1/Ch1/majors/Ch1_kyooikugaku"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3053\u3046\u304c\u304f",
+          "english": "Engineering",
+          "audio_url": "../audio/y1/Ch1/majors/Ch1_koogaku"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u304c\u3044\u3053\u304f\u3054",
+          "english": "Foreign Languages",
+          "audio_url": "../audio/y1/Ch1/majors/Ch1_gaikokugo"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u308c\u304d\u3057\u304c\u304f",
+          "english": "History",
+          "audio_url": "../audio/y1/Ch1/majors/Ch1_rekishigaku"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u307b\u3046\u304c\u304f",
+          "english": "Law",
+          "audio_url": "../audio/y1/Ch1/majors/Ch1_hoogaku"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3052\u3093\u3054\u304c\u304f",
+          "english": "Linguistics",
+          "audio_url": "../audio/y1/Ch1/majors/Ch1_gengogaku"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3076\u3093\u304c\u304f",
+          "english": "Literature",
+          "audio_url": "../audio/y1/Ch1/majors/Ch1_bungaku"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3059\u3046\u304c\u304f",
+          "english": "Mathematics",
+          "audio_url": "../audio/y1/Ch1/majors/Ch1_suugaku"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u304a\u3093\u304c\u304f",
+          "english": "Music",
+          "audio_url": "../audio/y1/Ch1/majors/Ch1_ongaku"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3066\u3064\u304c\u304f",
+          "english": "Philosophy",
+          "audio_url": "../audio/y1/Ch1/majors/Ch1_tetsugaku"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3076\u3064\u308a\u304c\u304f",
+          "english": "Physics",
+          "audio_url": "../audio/y1/Ch1/majors/Ch1_butsurigaku"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u305b\u3044\u3058\u304c\u304f",
+          "english": "Political Science",
+          "audio_url": "../audio/y1/Ch1/majors/Ch1_seejigaku"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3057\u3083\u304b\u3044\u304c\u304f",
+          "english": "Sociology",
+          "audio_url": "../audio/y1/Ch1/majors/Ch1_shakaigaku"
+        }
+      ]
+    },
+    {
+      "Months": [
+        {
+          "kanji": "",
+          "furigana": "\u3044\u3061\u304c\u3064",
+          "english": "January",
+          "audio_url": "../audio/y1/Ch1/Months/Ch1_ichigatsu"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u306b\u304c\u3064",
+          "english": "February",
+          "audio_url": "../audio/y1/Ch1/Months/Ch1_nigatsu"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3055\u3093\u304c\u3064",
+          "english": "March",
+          "audio_url": "../audio/y1/Ch1/Months/Ch1_sangatsu"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3057\u304c\u3064",
+          "english": "April",
+          "audio_url": "../audio/y1/Ch1/Months/Ch1_shigatsu"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3054\u304c\u3064",
+          "english": "May",
+          "audio_url": "../audio/y1/Ch1/Months/Ch1_"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u308d\u304f\u304c\u3064",
+          "english": "June",
+          "audio_url": "../audio/y1/Ch1/Months/Ch1_rokugatsu"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3057\u3061\u304c\u3064",
+          "english": "July",
+          "audio_url": "../audio/y1/Ch1/Months/Ch1_shichigatsu"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u306f\u3061\u304c\u3064",
+          "english": "August",
+          "audio_url": "../audio/y1/Ch1/Months/Ch1_hachigatsu"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u304f\u304c\u3064",
+          "english": "September",
+          "audio_url": "../audio/y1/Ch1/Months/Ch1_kugatsu"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3058\u3085\u3046\u304c\u3064",
+          "english": "October",
+          "audio_url": "../audio/y1/Ch1/Months/Ch1_juugatsu"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3058\u3085\u3046\u3044\u3061\u304c\u3064",
+          "english": "November",
+          "audio_url": "../audio/y1/Ch1/Months/Ch1_juuichigatsu"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3058\u3085\u3046\u306b\u304c\u3064",
+          "english": "December",
+          "audio_url": "../audio/y1/Ch1/Months/Ch1_juunigatsu"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u306a\u3093\u304c\u3064",
+          "english": "what month",
+          "audio_url": "../audio/y1/Ch1/Months/Ch1_nangatsu"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u306a\u3093\u304c\u3064\u3046\u307e\u308c",
+          "english": "What month were you born?",
+          "audio_url": "../audio/y1/Ch1/Months/Ch1_nangatsuumare"
+        }
+      ]
+    },
+    {
+      "Around Campus": [
+        {
+          "kanji": "",
+          "furigana": "\u3058\u3080\u3057\u3064",
+          "english": "administration office",
+          "audio_url": "../audio/y1/Ch1/Around_Campus/Ch1_jimushitsu"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u30d3\u30eb",
+          "english": "building",
+          "audio_url": "../audio/y1/Ch1/Around_Campus/Ch1_biru"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3058\u3063\u3051\u3093\u3057\u3064",
+          "english": "laboratory",
+          "audio_url": "../audio/y1/Ch1/Around_Campus/Ch1_jikkenshitsu"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u308a\u3087\u3046",
+          "english": "dormitory",
+          "audio_url": "../audio/y1/Ch1/Around_Campus/Ch1_ryoo"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u30b3\u30f3\u30d4\u30e5\u30fc\u30bf(\u30fc)\u30eb\u30fc\u30e0",
+          "english": "computer room",
+          "audio_url": "../audio/y1/Ch1/Around_Campus/Ch1_comp_ruumu"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u30ab\u30d5\u30a7\u30c6\u30ea\u30a2",
+          "english": "cafeteria",
+          "audio_url": "../audio/y1/Ch1/Around_Campus/Ch1_kafeteria"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u30a8\u30eb\u30a8\u30eb\uff08LL\uff09",
+          "english": "Language Lab",
+          "audio_url": "../audio/y1/Ch1/Around_Campus/Ch1_LL"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u30d7\u30fc\u30eb",
+          "english": "pool",
+          "audio_url": "../audio/y1/Ch1/Around_Campus/Ch1_puuru"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u305f\u3044\u3044\u304f\u304b\u3093",
+          "english": "gymnasium",
+          "audio_url": "../audio/y1/Ch1/Around_Campus/Ch1_taiikukan"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3068\u3057\u3087\u304b\u3093",
+          "english": "library",
+          "audio_url": "../audio/y1/Ch1/Around_Campus/Ch1_toshokan"
+        }
+      ]
+    },
+    {
+      "Days of the Weeks": [
+        {
+          "kanji": "",
+          "furigana": "\u306b\u3061\u3088\u3046\u3073",
+          "english": "Sunday",
+          "audio_url": "../audio/y1/Ch1/Days_of_the_Week/Ch1_nichiyoobi"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3052\u3064\u3088\u3046\u3073",
+          "english": "Monday",
+          "audio_url": "../audio/y1/Ch1/Days_of_the_Week/Ch1_getsuyoobi"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u304b\u3088\u3046\u3073",
+          "english": "Tuesday",
+          "audio_url": "../audio/y1/Ch1/Days_of_the_Week/Ch1_kayoobi"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3059\u3044\u3088\u3046\u3073",
+          "english": "Wednesday",
+          "audio_url": "../audio/y1/Ch1/Days_of_the_Week/Ch1_suiyoobi"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3082\u304f\u3088\u3046\u3073",
+          "english": "Thursday",
+          "audio_url": "../audio/y1/Ch1/Days_of_the_Week/Ch1_mokuyoobi"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u304d\u3093\u3088\u3046\u3073",
+          "english": "Friday",
+          "audio_url": "../audio/y1/Ch1/Days_of_the_Week/Ch1_kinyoobi"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3069\u3088\u3046\u3073",
+          "english": "Saturday",
+          "audio_url": "../audio/y1/Ch1/Days_of_the_Week/Ch1_doyoobi"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u306a\u3093\u3088\u3046\u3073\u3067\u3059\u304b",
+          "english": "What day of the week is it?",
+          "audio_url": "../audio/y1/Ch1/Days_of_the_Week/Ch1_nanyoobi"
+        }
+      ]
+    },
+    {
+      "Personal Information": [
+        {
+          "kanji": "",
+          "furigana": "\u306a\u307e\u3048",
+          "english": "name",
+          "audio_url": "../audio/y1/Ch1/Personal_Information/Ch1_namae"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3057\u3085\u3063\u3057\u3093",
+          "english": "origin; hometown",
+          "audio_url": "../audio/y1/Ch1/Personal_Information/Ch1_shusshin"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u305b\u3093\u3053\u3046",
+          "english": "major",
+          "audio_url": "../audio/y1/Ch1/Personal_Information/Ch1_senkoo"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u304c\u304f\u3076",
+          "english": "(academic) department",
+          "audio_url": "../audio/y1/Ch1/Personal_Information/Ch1_gakubu"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u304c\u304f\u306d\u3093",
+          "english": "year in school; school year",
+          "audio_url": "../audio/y1/Ch1/Personal_Information/Ch1_gakunen"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3044\u3061\u306d\u3093\u305b\u3044",
+          "english": "freshman",
+          "audio_url": "../audio/y1/Ch1/Personal_Information/Ch1_ichinensee"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u306b\u306d\u3093\u305b\u3044",
+          "english": "sophomore",
+          "audio_url": "../audio/y1/Ch1/Personal_Information/Ch1_ninensee"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3055\u3093\u306d\u3093\u305b\u3044",
+          "english": "junior",
+          "audio_url": "../audio/y1/Ch1/Personal_Information/Ch1_sannensee"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3088\u306d\u3093\u305b\u3044",
+          "english": "senior",
+          "audio_url": "../audio/y1/Ch1/Personal_Information/Ch1_yonensee"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3060\u3044\u304c\u304f\u3044\u3093\u305b\u3044",
+          "english": "graduate student",
+          "audio_url": "../audio/y1/Ch1/Personal_Information/Ch1_daigakuinsee"
+        }
+      ]
+    }
+  ],
+  "Chapter 2": [
+    {
+      "Commuting": [
+        {
+          "kanji": "",
+          "furigana": "\u30d0\u30b9",
+          "english": "bus",
+          "audio_url": "../audio/y1/Ch2/Commuting/Ch2_basu"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3058\u3066\u3093\u3057\u3083",
+          "english": "bicycle",
+          "audio_url": "../audio/y1/Ch2/Commuting/Ch2_jitensha"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u304f\u308b\u307e",
+          "english": "car",
+          "audio_url": "../audio/y1/Ch2/Commuting/Ch2_kuruma"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u30bf\u30af\u30b7\u30fc",
+          "english": "taxi, cab",
+          "audio_url": "../audio/y1/Ch2/Commuting/Ch2_takushii"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3061\u304b\u3066\u3064",
+          "english": "subway",
+          "audio_url": "../audio/y1/Ch2/Commuting/Ch2_chikatetsu"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3048\u304d",
+          "english": "station",
+          "audio_url": "../audio/y1/Ch2/Commuting/Ch2_eki"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3068\u307b\uff08\u3067\uff09",
+          "english": "on foot",
+          "audio_url": "../audio/y1/Ch2/Commuting/Ch2_tohode"
+        },
+        {
+          "kanji": "",
+          "furigana": "(\u304c\u3063\u3053\u3046\u306b)\u3061\u304b\u3044\u3067\u3059",
+          "english": "...is close (to school)",
+          "audio_url": "../audio/y1/Ch2/Commuting/Ch2_gakkoo_chikai"
+        },
+        {
+          "kanji": "",
+          "furigana": "(\u30a2\u30d1\u30fc\u30c8\u304b\u3089\uff09\u3068\u304a\u3044\u3067\u3059",
+          "english": "...is far (from my apartment)",
+          "audio_url": "../audio/y1/Ch2/Commuting/Ch2_apaato_tooi"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3079\u3093\u308a\uff08\u306a\uff09",
+          "english": "convenient",
+          "audio_url": "../audio/y1/Ch2/Commuting/Ch2_benrina"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3075\u3079\u3093\uff08\u306a\uff09",
+          "english": "inconvenient",
+          "audio_url": "../audio/y1/Ch2/Commuting/Ch2_fubenna"
+        }
+      ]
+    },
+    {
+      "Cities and Towns": [
+        {
+          "kanji": "",
+          "furigana": "\u304d\u3093\u3058\u3087",
+          "english": "neighborhood",
+          "audio_url": "../audio/y1/Ch2/Cities_Towns/Ch2_kinjo"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u304f",
+          "english": "ward of a city",
+          "audio_url": "../audio/y1/Ch2/Cities_Towns/Ch2_ku"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3053\u3046\u304c\u3044",
+          "english": "suburbs",
+          "audio_url": "../audio/y1/Ch2/Cities_Towns/Ch2_koogai"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3057",
+          "english": "city",
+          "audio_url": "../audio/y1/Ch2/Cities_Towns/Ch2_shi"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3058\u3093\u3053\u3046",
+          "english": "population",
+          "audio_url": "../audio/y1/Ch2/Cities_Towns/Ch2_jinkoo"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3068\u3053\u308d",
+          "english": "place",
+          "audio_url": "../audio/y1/Ch2/Cities_Towns/Ch2_tokoro"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u307e\u3061",
+          "english": "town",
+          "audio_url": "../audio/y1/Ch2/Cities_Towns/Ch2_machi"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3080\u3089",
+          "english": "village",
+          "audio_url": "../audio/y1/Ch2/Cities_Towns/Ch2_mura"
+        }
+      ]
+    },
+    {
+      "Counting Minutes and Hours": [
+        {
+          "kanji": "",
+          "furigana": "\u3044\u3063\u3077\u3093",
+          "english": "one minute",
+          "audio_url": "../audio/y1/Ch2/Counting_Min_Hours/Ch2_ippun"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u306b\u3075\u3093",
+          "english": "two minutes",
+          "audio_url": "../audio/y1/Ch2/Counting_Min_Hours/Ch2_nifun"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3055\u3093\u3077\u3093",
+          "english": "three minutes",
+          "audio_url": "../audio/y1/Ch2/Counting_Min_Hours/Ch2_sanpun"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3088\u3093\u3075\u3093\u3001\u3088\u3093\u3077\u3093",
+          "english": "four minutes",
+          "audio_url": "../audio/y1/Ch2/Counting_Min_Hours/Ch2_yonfun_yonpun"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3054\u3075\u3093",
+          "english": "five minutes",
+          "audio_url": "../audio/y1/Ch2/Counting_Min_Hours/Ch2_gofun"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u308d\u3063\u3077\u3093\u3001\u308d\u3063\u3077\u3093",
+          "english": "six minutes",
+          "audio_url": "../audio/y1/Ch2/Counting_Min_Hours/Ch2_roppun"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u306a\u306a\u3075\u3093\u3001\u3057\u3061\u3075\u3093",
+          "english": "seven minutes",
+          "audio_url": "../audio/y1/Ch2/Counting_Min_Hours/Ch2_nanafun_shichifun"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u306f\u3063\u3077\u3093",
+          "english": "eight minutes",
+          "audio_url": "../audio/y1/Ch2/Counting_Min_Hours/Ch2_happun"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u304d\u3085\u3046\u3075\u3093",
+          "english": "nine minutes",
+          "audio_url": "../audio/y1/Ch2/Counting_Min_Hours/Ch2_kyuufun"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3058\u3085\u3063\u3077\u3093",
+          "english": "ten minutes",
+          "audio_url": "../audio/y1/Ch2/Counting_Min_Hours/Ch2_juppun"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3044\u3061\u3058\u304b\u3093",
+          "english": "one hour",
+          "audio_url": "../audio/y1/Ch2/Counting_Min_Hours/Ch2_ichijikan"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u306b\u3058\u304b\u3093",
+          "english": "two hours",
+          "audio_url": "../audio/y1/Ch2/Counting_Min_Hours/Ch2_nijikan"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3044\u3061\u3058\u304b\u3093\u306f\u3093",
+          "english": "one and a half hours",
+          "audio_url": "../audio/y1/Ch2/Counting_Min_Hours/Ch2_ichijikanhan"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3055\u3093\u3058\u304b\u3093\u306b\u3058\u3085\u3046\u3054\u3075\u3093",
+          "english": "three hours and twenty-five minutes",
+          "audio_url": "../audio/y1/Ch2/Counting_Min_Hours/Ch2_sanjikannijuugofun"
+        }
+      ]
+    },
+    {
+      "Counting People": [
+        {
+          "kanji": "",
+          "furigana": "\u3072\u3068\u308a",
+          "english": "one person",
+          "audio_url": "../audio/y1/Ch2/Counting_People/Ch2_hitori"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3075\u305f\u308a",
+          "english": "two people",
+          "audio_url": "../audio/y1/Ch2/Counting_People/Ch2_futari"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3055\u3093\u306b\u3093",
+          "english": "three people",
+          "audio_url": "../audio/y1/Ch2/Counting_People/Ch2_sannin"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3088\u306b\u3093",
+          "english": "four people",
+          "audio_url": "../audio/y1/Ch2/Counting_People/Ch2_yonin"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3054\u306b\u3093",
+          "english": "five people",
+          "audio_url": "../audio/y1/Ch2/Counting_People/Ch2_gonin"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u308d\u304f\u306b\u3093",
+          "english": "six people",
+          "audio_url": "../audio/y1/Ch2/Counting_People/Ch2_rokunin"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u306a\u306a\u306b\u3093\u3001\u3057\u3061\u306b\u3093",
+          "english": "seven people",
+          "audio_url": "../audio/y1/Ch2/Counting_People/Ch2_nananin_shichinin"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u306f\u3061\u306b\u3093",
+          "english": "eight people",
+          "audio_url": "../audio/y1/Ch2/Counting_People/Ch2_hachinin"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u304d\u3085\u3046\u306b\u3093\u3001\u304f\u306b\u3093",
+          "english": "nine people",
+          "audio_url": "../audio/y1/Ch2/Counting_People/Ch2_kyuunin_kunin"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3058\u3085\u3046\u306b\u3093",
+          "english": "ten people",
+          "audio_url": "../audio/y1/Ch2/Counting_People/Ch2_juunin"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3058\u3085\u3046\u3044\u3061\u306b\u3093",
+          "english": "eleven people",
+          "audio_url": "../audio/y1/Ch2/Counting_People/Ch2_juuichinin"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3072\u3083\u304f\u306b\u3093",
+          "english": "one hundred people",
+          "audio_url": "../audio/y1/Ch2/Counting_People/Ch2_hyakunin"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u306a\u3093\u306b\u3093",
+          "english": "how many people",
+          "audio_url": "../audio/y1/Ch2/Counting_People/Ch2_nannin"
+        }
+      ]
+    },
+    {
+      "Places Around Town": [
+        {
+          "kanji": "",
+          "furigana": "\u307f\u3061",
+          "english": "street; road",
+          "audio_url": "../audio/y1/Ch2/Places_Around_Town/Ch2_michi"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3068\u304a\u308a",
+          "english": "avenue; street",
+          "audio_url": "../audio/y1/Ch2/Places_Around_Town/Ch2_toori"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u305f\u3066\u3082\u306e",
+          "english": "building",
+          "audio_url": "../audio/y1/Ch2/Places_Around_Town/Ch2_tatemono"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3044\u3048",
+          "english": "house",
+          "audio_url": "../audio/y1/Ch2/Places_Around_Town/Ch2_ie"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3046\u3061",
+          "english": "house; home; family",
+          "audio_url": "../audio/y1/Ch2/Places_Around_Town/Ch2_uchi"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3053\u3046\u3048\u3093",
+          "english": "park",
+          "audio_url": "../audio/y1/Ch2/Places_Around_Town/Ch2_kooen"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u304c\u3063\u3053\u3046",
+          "english": "school",
+          "audio_url": "../audio/y1/Ch2/Places_Around_Town/Ch2_gakkoo"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3073\u3087\u3046\u3044\u3093",
+          "english": "hospital",
+          "audio_url": "../audio/y1/Ch2/Places_Around_Town/Ch2_byooin"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3048\u3044\u304c\u304b\u3093",
+          "english": "movie theater",
+          "audio_url": "../audio/y1/Ch2/Places_Around_Town/Ch2_eegakan"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u304e\u3093\u3053\u3046",
+          "english": "bank",
+          "audio_url": "../audio/y1/Ch2/Places_Around_Town/Ch2_ginkoo"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3086\u3046\u3073\u3093\u304d\u3087\u304f",
+          "english": "post office",
+          "audio_url": "../audio/y1/Ch2/Places_Around_Town/Ch2_yuubinkyoku"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3053\u3046\u3070\u3093",
+          "english": "police box",
+          "audio_url": "../audio/y1/Ch2/Places_Around_Town/Ch2_kooban"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u304d\u3063\u3055\u3066\u3093",
+          "english": "coffee (lit. tea) shop",
+          "audio_url": "../audio/y1/Ch2/Places_Around_Town/Ch2_kissaten"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u30db\u30c6\u30eb",
+          "english": "hotel",
+          "audio_url": "../audio/y1/Ch2/Places_Around_Town/Ch2_hoteru"
+        },
+        {
+          "kanji": "",
+          "furigana": "\uff08\u304a\uff09\u3066\u3089",
+          "english": "Buddhist temple",
+          "audio_url": "../audio/y1/Ch2/Places_Around_Town/Ch2_otera"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3058\u3093\u3058\u3083",
+          "english": "Shinto shrine",
+          "audio_url": "../audio/y1/Ch2/Places_Around_Town/Ch2_jinja"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u304d\u3087\u3046\u304b\u3044",
+          "english": "church",
+          "audio_url": "../audio/y1/Ch2/Places_Around_Town/Ch2_kyookai"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u30ec\u30b9\u30c8\u30e9\u30f3",
+          "english": "restaurant",
+          "audio_url": "../audio/y1/Ch2/Places_Around_Town/Ch2_resutoran"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3057\u3087\u304f\u3069\u3046",
+          "english": "dining hall; informal restaurant",
+          "audio_url": "../audio/y1/Ch2/Places_Around_Town/Ch2_shokudoo"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u30b9\u30fc\u30d1\u30fc",
+          "english": "supermarket",
+          "audio_url": "../audio/y1/Ch2/Places_Around_Town/Ch2_suupaa"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u30c7\u30d1\u30fc\u30c8",
+          "english": "department store",
+          "audio_url": "../audio/y1/Ch2/Places_Around_Town/Ch2_depaato"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u30ac\u30bd\u30ea\u30f3\u30b9\u30bf\u30f3\u30c9\uff0f\u30ac\u30bd\u30ea\u30f3\u30fb\u30b9\u30bf\u30f3\u30c9",
+          "english": "gas station",
+          "audio_url": "../audio/y1/Ch2/Places_Around_Town/Ch2_gasorinsutando"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3061\u3085\u3046\u3057\u3083\u3058\u3087\u3046",
+          "english": "parking lot",
+          "audio_url": "../audio/y1/Ch2/Places_Around_Town/Ch2_chuushajoo"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u30d0\u30b9\u3066\u3044",
+          "english": "bus stop",
+          "audio_url": "../audio/y1/Ch2/Places_Around_Town/Ch2_basutee"
+        }
+      ]
+    },
+    {
+      "Positional Words": [
+        {
+          "kanji": "",
+          "furigana": "\u3046\u3048",
+          "english": "on; above; up",
+          "audio_url": "../audio/y1/Ch2/Positional_Words/Ch2_ue"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3057\u305f",
+          "english": "under; below; down",
+          "audio_url": "../audio/y1/Ch2/Positional_Words/Ch2_shita"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3072\u3060\u308a",
+          "english": "left",
+          "audio_url": "../audio/y1/Ch2/Positional_Words/Ch2_hidari"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u307f\u304e",
+          "english": "right",
+          "audio_url": "../audio/y1/Ch2/Positional_Words/Ch2_migi"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u306a\u304b",
+          "english": "in; inside",
+          "audio_url": "../audio/y1/Ch2/Positional_Words/Ch2_naka"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u305d\u3068",
+          "english": "out; outside",
+          "audio_url": "../audio/y1/Ch2/Positional_Words/Ch2_soto"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u307e\u3048",
+          "english": "front",
+          "audio_url": "../audio/y1/Ch2/Positional_Words/Ch2_mae"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3046\u3057\u308d",
+          "english": "back; behind",
+          "audio_url": "../audio/y1/Ch2/Positional_Words/Ch2_ushiro"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3042\u3044\u3060",
+          "english": "between",
+          "audio_url": "../audio/y1/Ch2/Positional_Words/Ch2_aida"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3080\u304b\u3044",
+          "english": "facing; across from",
+          "audio_url": "../audio/y1/Ch2/Positional_Words/Ch2_mukai"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3068\u306a\u308a",
+          "english": "next to; next door",
+          "audio_url": "../audio/y1/Ch2/Positional_Words/Ch2_tonari"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u305d\u3070",
+          "english": "nearby",
+          "audio_url": "../audio/y1/Ch2/Positional_Words/Ch2_soba"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u307e\u308f\u308a",
+          "english": "around",
+          "audio_url": "../audio/y1/Ch2/Positional_Words/Ch2_mawari"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3088\u3053",
+          "english": "side",
+          "audio_url": "../audio/y1/Ch2/Positional_Words/Ch2_yoko"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u307e\u3093\u306a\u304b",
+          "english": "middle",
+          "audio_url": "../audio/y1/Ch2/Positional_Words/Ch2_mannaka"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u304d\u305f",
+          "english": "north",
+          "audio_url": "../audio/y1/Ch2/Positional_Words/Ch2_kita"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u307f\u306a\u307f",
+          "english": "south",
+          "audio_url": "../audio/y1/Ch2/Positional_Words/Ch2_minami"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3072\u304c\u3057",
+          "english": "east",
+          "audio_url": "../audio/y1/Ch2/Positional_Words/Ch2_higashi"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u306b\u3057",
+          "english": "west",
+          "audio_url": "../audio/y1/Ch2/Positional_Words/Ch2_nishi"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3053\u3061\u3089\u304c\u308f",
+          "english": "this side",
+          "audio_url": "../audio/y1/Ch2/Positional_Words/Ch2_kochiragawa"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3080\u3053\u3046\u304c\u308f",
+          "english": "the other side",
+          "audio_url": "../audio/y1/Ch2/Positional_Words/Ch2_mukougawa"
+        }
+      ]
+    },
+    {
+      "Useful Vocabulary (adjectives)": [
+        {
+          "kanji": "",
+          "furigana": "\u304a\u304a\u304d\u3044\uff0f\u304a\u304a\u304d\u306a",
+          "english": "big; large",
+          "audio_url": "../audio/y1/Ch2/Useful_Vocab_adj/Ch2_ookii_ookina"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3061\u3044\u3055\u3044\uff0f\u3061\u3044\u3055\u306a",
+          "english": "small",
+          "audio_url": "../audio/y1/Ch2/Useful_Vocab_adj/Ch2_chiisai_chiisana"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u304a\u304a\u3044",
+          "english": "many",
+          "audio_url": "../audio/y1/Ch2/Useful_Vocab_adj/Ch2_ooi"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3059\u304f\u306a\u3044",
+          "english": "few",
+          "audio_url": "../audio/y1/Ch2/Useful_Vocab_adj/Ch2_sukunai"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3042\u305f\u3089\u3057\u3044",
+          "english": "new",
+          "audio_url": "../audio/y1/Ch2/Useful_Vocab_adj/Ch2_atarashii"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3075\u308b\u3044",
+          "english": "old",
+          "audio_url": "../audio/y1/Ch2/Useful_Vocab_adj/Ch2_furui"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3044\u3044\uff0f\u3088\u3044",
+          "english": "good",
+          "audio_url": "../audio/y1/Ch2/Useful_Vocab_adj/Ch2_ii_yoi"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3088\u304f\u306a\u3044",
+          "english": "not good; bad",
+          "audio_url": "../audio/y1/Ch2/Useful_Vocab_adj/Ch2_yokunai"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u308f\u308b\u3044",
+          "english": "bad",
+          "audio_url": "../audio/y1/Ch2/Useful_Vocab_adj/Ch2_warui"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3057\u305a\u304b\uff08\u306a\uff09",
+          "english": "quiet; peaceful",
+          "audio_url": "../audio/y1/Ch2/Useful_Vocab_adj/Ch2_shizukana"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3046\u308b\u3055\u3044",
+          "english": "noisy; disturbing",
+          "audio_url": "../audio/y1/Ch2/Useful_Vocab_adj/Ch2_urusai"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u304d\u308c\u3044\uff08\u306a\uff09",
+          "english": "beautiful; clean",
+          "audio_url": "../audio/y1/Ch2/Useful_Vocab_adj/Ch2_kireena"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u304d\u305f\u306a\u3044",
+          "english": "dirty",
+          "audio_url": "../audio/y1/Ch2/Useful_Vocab_adj/Ch2_kitanai"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3072\u308d\u3044",
+          "english": "spacious; wide",
+          "audio_url": "../audio/y1/Ch2/Useful_Vocab_adj/Ch2_hiroi"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u305b\u307e\u3044",
+          "english": "",
+          "audio_url": "../audio/y1/Ch2/Useful_Vocab_adj/Ch2_semai"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3072\u304f\u3044",
+          "english": "",
+          "audio_url": "../audio/y1/Ch2/Useful_Vocab_adj/Ch2_hikui"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u305f\u304b\u3044",
+          "english": "",
+          "audio_url": "../audio/y1/Ch2/Useful_Vocab_adj/Ch2_takai"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3084\u3059\u3044",
+          "english": "",
+          "audio_url": "../audio/y1/Ch2/Useful_Vocab_adj/Ch2_yasui"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u304a\u3082\u3057\u308d\u3044",
+          "english": "",
+          "audio_url": "../audio/y1/Ch2/Useful_Vocab_adj/Ch2_omoshiroi"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3086\u3046\u3081\u3044\uff08\u306a\uff09",
+          "english": "",
+          "audio_url": "../audio/y1/Ch2/Useful_Vocab_adj/Ch2_yuumee_na"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u306b\u304e\u3084\u304b\uff08\u306a\uff09",
+          "english": "",
+          "audio_url": "../audio/y1/Ch2/Useful_Vocab_adj/Ch2_nigiyakana"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3064\u307e\u3089\u306a\u3044",
+          "english": "",
+          "audio_url": "../audio/y1/Ch2/Useful_Vocab_adj/Ch2_tsumaranai"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3080\u305a\u304b\u3057\u3044",
+          "english": "",
+          "audio_url": "../audio/y1/Ch2/Useful_Vocab_adj/Ch2_muzukashii"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3084\u3055\u3057\u3044",
+          "english": "",
+          "audio_url": "../audio/y1/Ch2/Useful_Vocab_adj/Ch2_yasashii"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u306a\u304c\u3044",
+          "english": "",
+          "audio_url": "../audio/y1/Ch2/Useful_Vocab_adj/Ch2_nagai"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u307f\u3058\u304b\u3044",
+          "english": "",
+          "audio_url": "../audio/y1/Ch2/Useful_Vocab_adj/Ch2_mijikai"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u304a\u3044\u3057\u3044",
+          "english": "",
+          "audio_url": "../audio/y1/Ch2/Useful_Vocab_adj/\u304a\u3044\u3057\u3044"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u307e\u305a\u3044",
+          "english": "",
+          "audio_url": "../audio/y1/Ch2/Useful_Vocab_adj/\u307e\u305a\u3044"
+        }
+      ]
+    },
+    {
+      "Large numbers": [
+        {
+          "kanji": "",
+          "furigana": "10,300",
+          "english": "\u3044\u3061\u307e\u3093\u3055\u3093\u3073\u3083\u304f",
+          "audio_url": "../audio/y1/601D_numbers/10300"
+        },
+        {
+          "kanji": "",
+          "furigana": "101,600",
+          "english": "\u3058\u3085\u3046\u307e\u3093\u305b\u3093\u308d\u3063\u3072\u3083\u304f",
+          "audio_url": "../audio/y1/601D_numbers/101600"
+        },
+        {
+          "kanji": "",
+          "furigana": "1,118,000",
+          "english": "\u3072\u3083\u304f\u3058\u3085\u3046\u3044\u3061\u307e\u3093\u306f\u3063\u305b\u3093",
+          "audio_url": "../audio/y1/601D_numbers/1118000"
+        },
+        {
+          "kanji": "",
+          "furigana": "1,001",
+          "english": "\u305b\u3093\u3044\u3061",
+          "audio_url": "../audio/y1/601D_numbers/1001"
+        },
+        {
+          "kanji": "",
+          "furigana": "1,562",
+          "english": "\u305b\u3093\u3054\u3072\u3083\u304f\u308d\u304f\u3058\u3085\u3046\u306b",
+          "audio_url": "../audio/y1/601D_numbers/1562"
+        },
+        {
+          "kanji": "",
+          "furigana": "2,073",
+          "english": "\u306b\u305b\u3093\u306a\u306a\u3058\u3085\u3046\u3055\u3093",
+          "audio_url": "../audio/y1/601D_numbers/2073"
+        },
+        {
+          "kanji": "",
+          "furigana": "6,666",
+          "english": "\u308d\u304f\u305b\u3093\u308d\u3063\u3074\u3083\u304f\u308d\u304f\u3058\u3085\u3046\u308d\u304f",
+          "audio_url": "../audio/y1/601D_numbers/6666"
+        },
+        {
+          "kanji": "",
+          "furigana": "8,906",
+          "english": "\u306f\u3063\u305b\u3093\u304d\u3085\u3046\u3072\u3083\u304f\u308d\u304f",
+          "audio_url": "../audio/y1/601D_numbers/8906"
+        },
+        {
+          "kanji": "",
+          "furigana": "9,713",
+          "english": "\u304d\u3085\u3046\u305b\u3093\u306a\u306a\u3072\u3083\u304f\u3058\u3085\u3046\u3055\u3093",
+          "audio_url": "../audio/y1/601D_numbers/9713"
+        }
+      ]
+    }
+  ],
+  "Chapter 3": [
+    {
+      "Days and Time of Day": [
+        {
+          "kanji": "",
+          "furigana": "\u304d\u3087\u3046",
+          "english": "today",
+          "audio_url": "../audio/y1/Ch3/Days_Time_of_Day/Ch3_kyoo"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3042\u3057\u305f",
+          "english": "tomorrow",
+          "audio_url": "../audio/y1/Ch3/Days_Time_of_Day/Ch3_ashita"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u304d\u306e\u3046",
+          "english": "yesterday",
+          "audio_url": "../audio/y1/Ch3/Days_Time_of_Day/Ch3_kinoo"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3042\u3055\u3063\u3066",
+          "english": "the day after tomorrow",
+          "audio_url": "../audio/y1/Ch3/Days_Time_of_Day/Ch3_asatte"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u304a\u3068\u3068\u3044",
+          "english": "the day before yesterday",
+          "audio_url": "../audio/y1/Ch3/Days_Time_of_Day/Ch3_ototoi"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3051\u3055",
+          "english": "this morning",
+          "audio_url": "../audio/y1/Ch3/Days_Time_of_Day/Ch3_kesa"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u304d\u3087\u3046\u306e\u3054\u3054",
+          "english": "this afternoon",
+          "audio_url": "../audio/y1/Ch3/Days_Time_of_Day/Ch3_kyoonogogo"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3053\u3093\u3070\u3093",
+          "english": "tonight",
+          "audio_url": "../audio/y1/Ch3/Days_Time_of_Day/Ch3_konban"
+        }
+      ]
+    },
+    {
+      "Days of the Month": [
+        {
+          "kanji": "",
+          "furigana": "\u3064\u3044\u305f\u3061",
+          "english": "the first",
+          "audio_url": "../audio/y1/Ch3/Days_Month/Ch3_tsuitachi"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3075\u3064\u304b",
+          "english": "the second",
+          "audio_url": "../audio/y1/Ch3/Days_Month/Ch3_futsuka"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u307f\u3063\u304b",
+          "english": "the third",
+          "audio_url": "../audio/y1/Ch3/Days_Month/Ch3_mikka"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3088\u3063\u304b",
+          "english": "the fourth",
+          "audio_url": "../audio/y1/Ch3/Days_Month/Ch3_yokka"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3044\u3064\u304b",
+          "english": "the fifth",
+          "audio_url": "../audio/y1/Ch3/Days_Month/Ch3_itsuka"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3080\u3044\u304b",
+          "english": "the sixth",
+          "audio_url": "../audio/y1/Ch3/Days_Month/Ch3_muika"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u306a\u306e\u304b",
+          "english": "the seventh",
+          "audio_url": "../audio/y1/Ch3/Days_Month/Ch3_nanoka"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3088\u3046\u304b",
+          "english": "the eighth",
+          "audio_url": "../audio/y1/Ch3/Days_Month/Ch3_yooka"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3053\u3053\u306e\u304b",
+          "english": "the ninth",
+          "audio_url": "../audio/y1/Ch3/Days_Month/Ch3_kokonoka"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3068\u304a\u304b",
+          "english": "the tenth",
+          "audio_url": "../audio/y1/Ch3/Days_Month/Ch3_tooka"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3058\u3085\u3046\u3044\u3061\u306b\u3061",
+          "english": "the eleventh",
+          "audio_url": "../audio/y1/Ch3/Days_Month/Ch3_juuichinichi"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3058\u3085\u3046\u306b\u306b\u3061",
+          "english": "the twelfth",
+          "audio_url": "../audio/y1/Ch3/Days_Month/Ch3_juuninichi"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3058\u3085\u3046\u3055\u3093\u306b\u3061",
+          "english": "the thirteenth",
+          "audio_url": "../audio/y1/Ch3/Days_Month/Ch3_juusannichi"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3058\u3085\u3046\u3088\u3063\u304b",
+          "english": "the fourteenth",
+          "audio_url": "../audio/y1/Ch3/Days_Month/Ch3_juuyokka"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3058\u3085\u3046\u3054\u306b\u3061",
+          "english": "the fifteenth",
+          "audio_url": "../audio/y1/Ch3/Days_Month/Ch3_juugonichi"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3058\u3085\u3046\u308d\u304f\u306b\u3061",
+          "english": "the sixteenth",
+          "audio_url": "../audio/y1/Ch3/Days_Month/Ch3_juurokunichi"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3058\u3085\u3046\u3057\u3061\u306b\u3061",
+          "english": "the seveteenth",
+          "audio_url": "../audio/y1/Ch3/Days_Month/Ch3_juushichinichi"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3058\u3085\u3046\u306f\u3061\u306b\u3061",
+          "english": "the eighteenth",
+          "audio_url": "../audio/y1/Ch3/Days_Month/Ch3_juuhachinichi"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3058\u3085\u3046\u304f\u306b\u3061",
+          "english": "the nineteenth",
+          "audio_url": "../audio/y1/Ch3/Days_Month/Ch3_juukunichi"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u306f\u3064\u304b",
+          "english": "the twentieth",
+          "audio_url": "../audio/y1/Ch3/Days_Month/Ch3_hatsuka"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u306b\u3058\u3085\u3046\u3088\u3063\u304b",
+          "english": "the twenty-fouth",
+          "audio_url": "../audio/y1/Ch3/Days_Month/Ch3_nijuuyokka"
+        }
+      ]
+    },
+    {
+      "Everyday Activites": [
+        {
+          "kanji": "",
+          "furigana": "\u3086\u3046\u3054\u306f\u3093\u3092\u305f\u3079\u308b",
+          "english": "to eat dinner, supper",
+          "audio_url": "../audio/y1/Ch3/Everyday_Activities/Ch3_yuugohan_taberu"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3067\u304b\u3051\u308b",
+          "english": "to step out; to leave for",
+          "audio_url": "../audio/y1/Ch3/Everyday_Activities/Ch3_dekakeru"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u304b\u3044\u3082\u306e\u306b\u3067\u304b\u3051\u308b",
+          "english": "to go out shopping",
+          "audio_url": "../audio/y1/Ch3/Everyday_Activities/Ch3_kaimono_dekakeru"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u30b7\u30e3\u30ef\u30fc\u3092\u3042\u3073\u308b",
+          "english": "to take a shower",
+          "audio_url": "../audio/y1/Ch3/Everyday_Activities/Ch3_shawaa_abiru"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3046\u3061\u3092\u3067\u308b",
+          "english": "to leave home",
+          "audio_url": "../audio/y1/Ch3/Everyday_Activities/Ch3_uchi_deru"
+        },
+        {
+          "kanji": "",
+          "furigana": "\uff08\u304a\uff09\u3075\u308d\u306b\u306f\u3044\u308b",
+          "english": "to take a bath",
+          "audio_url": "../audio/y1/Ch3/Everyday_Activities/Ch3_ofuro_hairu"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u306f\u3092\u307f\u304c\u304f",
+          "english": "to brush ones teeth",
+          "audio_url": "../audio/y1/Ch3/Everyday_Activities/Ch3_ha_migaku"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u304b\u304a\u3092\u3042\u3089\u3046",
+          "english": "to wash ones face",
+          "audio_url": "../audio/y1/Ch3/Everyday_Activities/Ch3_kao_arau"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3075\u304f\u3092\u304d\u308b",
+          "english": "to put on clothes",
+          "audio_url": "../audio/y1/Ch3/Everyday_Activities/Ch3_fuku_kiru"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u30d0\u30b9\u306b\u306e\u308b",
+          "english": "to ride or get on a bus",
+          "audio_url": "../audio/y1/Ch3/Everyday_Activities/Ch3_basu_noru"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u306f\u305f\u3089\u304f\u3001\u3057\u3054\u3068\u3092\u3059\u308b",
+          "english": "to work",
+          "audio_url": "../audio/y1/Ch3/Everyday_Activities/Ch3_hataraku"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3084\u3059\u3080",
+          "english": "to take a rest; to take time off",
+          "audio_url": "../audio/y1/Ch3/Everyday_Activities/Ch3_yasumu"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u304a\u304d\u308b",
+          "english": "to get up",
+          "audio_url": "../audio/y1/Ch3/Everyday_Activities/Ch3_okiru"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u306d\u308b",
+          "english": "to sleep",
+          "audio_url": "../audio/y1/Ch3/Everyday_Activities/Ch3_neru"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3057\u3093\u3076\u3093\u3092\u3088\u3080",
+          "english": "to read a newspaper",
+          "audio_url": "../audio/y1/Ch3/Everyday_Activities/Ch3_shinbun_yomu"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3072\u308b\u3054\u306f\u3093\u3092\u305f\u3079\u308b",
+          "english": "to eat lunch",
+          "audio_url": "../audio/y1/Ch3/Everyday_Activities/Ch3_hirugohan_taberu"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u304a\u3061\u3083\u3092\u306e\u3080",
+          "english": "to drink tea",
+          "audio_url": "../audio/y1/Ch3/Everyday_Activities/Ch3_ocha_nomu"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3079\u3093\u304d\u3087\u3046\u3059\u308b",
+          "english": "to study",
+          "audio_url": "../audio/y1/Ch3/Everyday_Activities/Ch3_benkyousuru"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u306d\u307c\u3046\u3059\u308b",
+          "english": "to oversleep",
+          "audio_url": "../audio/y1/Ch3/Everyday_Activities/Ch3_neboosuru"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3046\u3093\u3069\u3046\u3059\u308b",
+          "english": "to exercise",
+          "audio_url": "../audio/y1/Ch3/Everyday_Activities/Ch3_undoosuru"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u304a\u3093\u304c\u304f\u3092\u304d\u304f",
+          "english": "to listen to music",
+          "audio_url": "../audio/y1/Ch3/Everyday_Activities/Ch3_ongaku_kiku"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u308a\u3087\u3046\u308a\u3059\u308b",
+          "english": "to cook",
+          "audio_url": "../audio/y1/Ch3/Everyday_Activities/Ch3_ryoorisuru"
+        }
+      ]
+    },
+    {
+      "Expressions of Frequency": [
+        {
+          "kanji": "",
+          "furigana": "\u3054\u304b\u3044",
+          "english": "five times",
+          "audio_url": "../audio/y1/Ch3/Expressions_Frequency/Ch3_gokai"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3044\u3061\u306b\u3061\u306b\u306b\u304b\u3044",
+          "english": "two times per day",
+          "audio_url": "../audio/y1/Ch3/Expressions_Frequency/Ch3_ichinichi_nikai"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3044\u3061\u306b\u3061\u306b\u306a\u3093\u304b\u3044",
+          "english": "how many times a day",
+          "audio_url": "../audio/y1/Ch3/Expressions_Frequency/Ch3_ichinichi_nankai"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3044\u3063\u3057\u3085\u3046\u304b\u3093\u306b\u306b\u304b\u3044",
+          "english": "two times a week",
+          "audio_url": "../audio/y1/Ch3/Expressions_Frequency/Ch3_isshuukan_nikai"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3044\u3063\u304b\u3052\u3064\u306b\u3088\u3093\u304b\u3044",
+          "english": "four times a month",
+          "audio_url": "../audio/y1/Ch3/Expressions_Frequency/Ch3_ikkagetsu_yonkai"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u307e\u3044\u306b\u3061",
+          "english": "every day",
+          "audio_url": "../audio/y1/Ch3/Expressions_Frequency/Ch3_mainichi"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u307e\u3044\u3057\u3085\u3046",
+          "english": "every week",
+          "audio_url": "../audio/y1/Ch3/Expressions_Frequency/Ch3_maishuu"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u307e\u3044\u3064\u304d",
+          "english": "every month",
+          "audio_url": "../audio/y1/Ch3/Expressions_Frequency/Ch3_maitsuki"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u307e\u3044\u3042\u3055",
+          "english": "every morning",
+          "audio_url": "../audio/y1/Ch3/Expressions_Frequency/Ch3_maiasa"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u307e\u3044\u3070\u3093",
+          "english": "every night",
+          "audio_url": "../audio/y1/Ch3/Expressions_Frequency/Ch3_maiban"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3044\u3064\u3082",
+          "english": "all the time",
+          "audio_url": "../audio/y1/Ch3/Expressions_Frequency/Ch3_itsumo"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3088\u304f",
+          "english": "often; a lot",
+          "audio_url": "../audio/y1/Ch3/Expressions_Frequency/Ch3_yoku"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3068\u304d\u3069\u304d",
+          "english": "sometimes",
+          "audio_url": "../audio/y1/Ch3/Expressions_Frequency/Ch3_tokidoki"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u305f\u307e\u306b",
+          "english": "once in a while",
+          "audio_url": "../audio/y1/Ch3/Expressions_Frequency/Ch3_tamani"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3042\u307e\u308a",
+          "english": "not very much; not very often",
+          "audio_url": "../audio/y1/Ch3/Expressions_Frequency/Ch3_amari"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u307b\u3068\u3093\u3069",
+          "english": "hardly; almost never",
+          "audio_url": "../audio/y1/Ch3/Expressions_Frequency/Ch3_hotondo"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u305c\u3093\u305c\u3093",
+          "english": "not at all",
+          "audio_url": "../audio/y1/Ch3/Expressions_Frequency/Ch3_zenzen"
+        }
+      ]
+    },
+    {
+      "Holidays and Vacations": [
+        {
+          "kanji": "",
+          "furigana": "\u3078\u3044\u3058\u3064",
+          "english": "weekday",
+          "audio_url": "../audio/y1/Ch3/Holidays_Vacations/Ch3_heijitsu"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3057\u3085\u3046\u307e\u3064",
+          "english": "weekend",
+          "audio_url": "../audio/y1/Ch3/Holidays_Vacations/Ch3_shuumatsu"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3084\u3059\u307f\u306e\u3072",
+          "english": "day off; holiday",
+          "audio_url": "../audio/y1/Ch3/Holidays_Vacations/Ch3_yasuminohi"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3084\u3059\u3080",
+          "english": "to take time off; take a rest",
+          "audio_url": "../audio/y1/Ch3/Holidays_Vacations/Ch3_yasumu"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3057\u3085\u304f\u3058\u3064",
+          "english": "national holiday",
+          "audio_url": "../audio/y1/Ch3/Holidays_Vacations/Ch3_shukujitsu"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u306a\u3064\u3084\u3059\u307f",
+          "english": "summer holiday",
+          "audio_url": "../audio/y1/Ch3/Holidays_Vacations/Ch3_natsuyasumi"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3075\u3086\u3084\u3059\u307f",
+          "english": "winter vacation",
+          "audio_url": "../audio/y1/Ch3/Holidays_Vacations/Ch3_fuyuyasumi"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u304d\u3085\u3046\u304b",
+          "english": "vacation",
+          "audio_url": "../audio/y1/Ch3/Holidays_Vacations/Ch3_kyuuka"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u304d\u3085\u3046\u304b\u3092\u3068\u308b",
+          "english": "to take a vacation",
+          "audio_url": "../audio/y1/Ch3/Holidays_Vacations/Ch3_kyuuka_toru"
+        }
+      ]
+    },
+    {
+      "Weeks, Months, and Years": [
+        {
+          "kanji": "",
+          "furigana": "\u3053\u3093\u3057\u3085\u3046",
+          "english": "this week",
+          "audio_url": "../audio/y1/Ch3/Weeks_Months_Years/Ch3_konshuu"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3089\u3044\u3057\u3085\u3046",
+          "english": "next week",
+          "audio_url": "../audio/y1/Ch3/Weeks_Months_Years/Ch3_raishuu"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u305b\u3093\u3057\u3085\u3046",
+          "english": "last week",
+          "audio_url": "../audio/y1/Ch3/Weeks_Months_Years/Ch3_senshuu"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3053\u3093\u3052\u3064",
+          "english": "this month",
+          "audio_url": "../audio/y1/Ch3/Weeks_Months_Years/Ch3_kongetsu"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3089\u3044\u3052\u3064",
+          "english": "next month",
+          "audio_url": "../audio/y1/Ch3/Weeks_Months_Years/Ch3_raigetsu"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u305b\u3093\u3052\u3064",
+          "english": "last month",
+          "audio_url": "../audio/y1/Ch3/Weeks_Months_Years/Ch3_sengetsu"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3053\u3068\u3057",
+          "english": "this year",
+          "audio_url": "../audio/y1/Ch3/Weeks_Months_Years/Ch3_kotoshi"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3089\u3044\u306d\u3093",
+          "english": "next year",
+          "audio_url": "../audio/y1/Ch3/Weeks_Months_Years/Ch3_rainen"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u304d\u3087\u306d\u3093",
+          "english": "last year",
+          "audio_url": "../audio/y1/Ch3/Weeks_Months_Years/Ch3_kyonen"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3055\u304f\u306d\u3093",
+          "english": "last year",
+          "audio_url": "../audio/y1/Ch3/Weeks_Months_Years/Ch3_sakunen"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u306a\u3093\u306b\u3061",
+          "english": "what day",
+          "audio_url": "../audio/y1/Ch3/Weeks_Months_Years/Ch3_nannichi"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u306a\u3093\u304c\u3064",
+          "english": "what month",
+          "audio_url": "../audio/y1/Ch3/Weeks_Months_Years/Ch3_nangatsu"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u306a\u3093\u306d\u3093",
+          "english": "what year",
+          "audio_url": "../audio/y1/Ch3/Weeks_Months_Years/Ch3_nannen"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u306a\u3093\u3088\u3046\u3073",
+          "english": "what day of the week",
+          "audio_url": "../audio/y1/Ch3/Weeks_Months_Years/Ch3_nanyoobi"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u306a\u3093\u306d\u3093\u306a\u3093\u304c\u3064\u306a\u3093\u306b\u3061\uff08\u3067\u3059\u304b\uff09",
+          "english": "what is the date (lit., year, month and day)?",
+          "audio_url": "../audio/y1/Ch3/Weeks_Months_Years/Ch3_nannen_nangatsu_nannichi"
+        }
+      ]
+    }
+  ],
+  "Chapter 4": [
+    {
+      "Forecasting, Rain, and Other Precipitation": [
+        {
+          "kanji": "",
+          "furigana": "\u305d\u3089",
+          "english": "sky",
+          "audio_url": "../audio/y1/ch4/Forecasting_Rain_Precipitation/Ch4_sora"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u304a\u304a\u3042\u3081",
+          "english": "heavy rain",
+          "audio_url": "../audio/y1/ch4/Forecasting_Rain_Precipitation/Ch4_ooame"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u304a\u304a\u3086\u304d",
+          "english": "heavy snowstorm",
+          "audio_url": "../audio/y1/ch4/Forecasting_Rain_Precipitation/Ch4_ooyuki"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3057\u3082",
+          "english": "frost",
+          "audio_url": "../audio/y1/ch4/Forecasting_Rain_Precipitation/Ch4_shimo"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u304d\u308a",
+          "english": "fog",
+          "audio_url": "../audio/y1/ch4/Forecasting_Rain_Precipitation/Ch4_kiri"
+        }
+      ]
+    },
+    {
+      "Seasons and Seasonal Activities": [
+        {
+          "kanji": "",
+          "furigana": "\u304d\u305b\u3064",
+          "english": "season",
+          "audio_url": "../audio/y1/ch4/Seasons_Seasonal/Ch4_kisetsu"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3057\u304d",
+          "english": "four seasons",
+          "audio_url": "../audio/y1/ch4/Seasons_Seasonal/Ch4_shiki"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u30ab\u30ec\u30f3\u30c0\u30fc",
+          "english": "calendar",
+          "audio_url": "../audio/y1/ch4/Seasons_Seasonal/Ch4_karendaa"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u304a\u3088\u3050",
+          "english": "to swim",
+          "audio_url": "../audio/y1/ch4/Seasons_Seasonal/Ch4_oyogu"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u30b9\u30ad\u30fc\u3092\u3059\u308b",
+          "english": "to ski",
+          "audio_url": "../audio/y1/ch4/Seasons_Seasonal/Ch4_sukii_suru"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u30b9\u30b1\u30fc\u30c8\u3092\u3059\u308b",
+          "english": "to skate",
+          "audio_url": "../audio/y1/ch4/Seasons_Seasonal/Ch4_sukeeto_suru"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3084\u307e\u306e\u307c\u308a\u3092\u3059\u308b",
+          "english": "to climb mountains",
+          "audio_url": "../audio/y1/ch4/Seasons_Seasonal/Ch4_yamanobori_suru"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3064\u308a\u3092\u3059\u308b",
+          "english": "to fish",
+          "audio_url": "../audio/y1/ch4/Seasons_Seasonal/Ch4_tsuri_suru"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u30ad\u30e3\u30f3\u30d7\uff08\u306b\u884c\u304f\uff09",
+          "english": "(to go) camping",
+          "audio_url": "../audio/y1/ch4/Seasons_Seasonal/Ch4_kyanpu_iku"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u30cf\u30a4\u30ad\u30f3\u30b0\uff08\u306b\u884c\u304f\uff09",
+          "english": "(to go) hiking",
+          "audio_url": "../audio/y1/ch4/Seasons_Seasonal/Ch4_haikingu_iku"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u306f\u306a\u307f\uff08\u306b\u3044\u304f\uff09",
+          "english": "(to go) cherry blossom viewing",
+          "audio_url": "../audio/y1/ch4/Seasons_Seasonal/Ch4_hanami_iku"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u306f\u308b",
+          "english": "spring",
+          "audio_url": "../audio/y1/ch4/Seasons_Seasonal/Ch4_haru"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u306a\u3064",
+          "english": "summer",
+          "audio_url": "../audio/y1/ch4/Seasons_Seasonal/Ch4_natsu"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3042\u304d",
+          "english": "fall",
+          "audio_url": "../audio/y1/ch4/Seasons_Seasonal/Ch4_aki"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3075\u3086",
+          "english": "winter",
+          "audio_url": "../audio/y1/ch4/Seasons_Seasonal/Ch4_fuyu"
+        }
+      ]
+    },
+    {
+      "Weather and Climate": [
+        {
+          "kanji": "",
+          "furigana": "\u3066\u3093\u304d",
+          "english": "weather",
+          "audio_url": "../audio/y1/ch4/Weather_ Climate/Ch4_tenki"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u304d\u3053\u3046",
+          "english": "climate",
+          "audio_url": "../audio/y1/ch4/Weather_ Climate/Ch4_kikoo"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3066\u3093\u304d\u3088\u307b\u3046",
+          "english": "weather forecast",
+          "audio_url": "../audio/y1/ch4/Weather_ Climate/Ch4_tenkiyohoo"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3066\u3093\u304d\u305a",
+          "english": "weather map",
+          "audio_url": "../audio/y1/ch4/Weather_ Climate/Ch4_tenkichizu"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3044\u3044\u3066\u3093\u304d",
+          "english": "good weather",
+          "audio_url": "../audio/y1/ch4/Weather_ Climate/Ch4_ii_tenki"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u308f\u308b\u3044\u3066\u3093\u304d",
+          "english": "bad weather",
+          "audio_url": "../audio/y1/ch4/Weather_ Climate/Ch4_warui_tenki"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u306f\u308c\u308b",
+          "english": "to clear up",
+          "audio_url": "../audio/y1/ch4/Weather_ Climate/Ch4_hareru"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u304f\u3082\u308b",
+          "english": "to become cloudy; to be cloudy",
+          "audio_url": "../audio/y1/ch4/Weather_ Climate/Ch4_kumoru"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3042\u3081\u304c\u3075\u308b",
+          "english": "to rain",
+          "audio_url": "../audio/y1/ch4/Weather_ Climate/Ch4_ame_furu"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3086\u304d\u304c\u3075\u308b",
+          "english": "to snow",
+          "audio_url": "../audio/y1/ch4/Weather_ Climate/Ch4_yuki_furu"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u304d\u304a\u3093",
+          "english": "(air) temperature",
+          "audio_url": "../audio/y1/ch4/Weather_ Climate/Ch4_kion"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3054\u3069",
+          "english": "5 sdegrees (counter)",
+          "audio_url": "../audio/y1/ch4/Weather_ Climate/Ch4_godo"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3042\u305f\u305f\u304b\u3044",
+          "english": "warm",
+          "audio_url": "../audio/y1/ch4/Weather_ Climate/Ch4_atatakai"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3059\u305a\u3057\u3044",
+          "english": "cool",
+          "audio_url": "../audio/y1/ch4/Weather_ Climate/Ch4_suzushii"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3080\u3057\u3042\u3064\u3044",
+          "english": "sultry; hot and humid",
+          "audio_url": "../audio/y1/ch4/Weather_ Climate/Ch4_mushiatsui"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u304b\u305c\u304c\u3075\u304f",
+          "english": "the wind blows",
+          "audio_url": "../audio/y1/ch4/Weather_ Climate/Ch4_kaze_fuku"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u304b\u305c\u304c\u3088\u308f\u3044",
+          "english": "there is a slight breeze; the wind is weak",
+          "audio_url": "../audio/y1/ch4/Weather_ Climate/Ch4_kaze_yowai"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u305f\u3044\u3075\u3046",
+          "english": "typhoon",
+          "audio_url": "../audio/y1/ch4/Weather_ Climate/Ch4_taifuu"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u308c\u3044\u304b\u3058\u3085\u3046\u3069",
+          "english": "10 degrees below zero",
+          "audio_url": "../audio/y1/ch4/Weather_ Climate/Ch4_reika_juudo"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u305f\u304b\u3044",
+          "english": "high",
+          "audio_url": "../audio/y1/ch4/Weather_ Climate/Ch4_takai"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3072\u304f\u3044",
+          "english": "low",
+          "audio_url": "../audio/y1/ch4/Weather_ Climate/Ch4_hikui"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3042\u3064\u3044",
+          "english": "hot",
+          "audio_url": "../audio/y1/ch4/Weather_ Climate/Ch4_atsui"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3055\u3080\u3044",
+          "english": "cold",
+          "audio_url": "../audio/y1/ch4/Weather_ Climate/Ch4_samui"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3042\u3081",
+          "english": "rain",
+          "audio_url": "../audio/y1/ch4/Weather_ Climate/Ch4_ame"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u306f\u308c",
+          "english": "sunny and clear; clear weather",
+          "audio_url": "../audio/y1/ch4/Weather_ Climate/Ch4_hare"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u304f\u3082\u308a",
+          "english": "cloudy",
+          "audio_url": "../audio/y1/ch4/Weather_ Climate/Ch4_kumori"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3086\u304d",
+          "english": "snow",
+          "audio_url": "../audio/y1/ch4/Weather_ Climate/Ch4_yuki"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u304b\u305c\u304c\u3064\u3088\u3044",
+          "english": "it is windy; the wind is strong",
+          "audio_url": "../audio/y1/ch4/Weather_ Climate/Ch4_kaze_tsuyoi"
+        }
+      ]
+    }
+  ],
+  "Chapter 5": [
+    {
+      "Hobbies and Leisure Activities #1": [
+        {
+          "kanji": "",
+          "furigana": "\u3088\u304b",
+          "english": "freetime; leisure",
+          "audio_url": "../audio/y1/ch5/Hobbies_Leisure_Act1/Ch4_yoka"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3057\u3085\u307f",
+          "english": "hobby",
+          "audio_url": "../audio/y1/ch5/Hobbies_Leisure_Act1/Ch4_shumi"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3042\u305d\u3076",
+          "english": "to play",
+          "audio_url": "../audio/y1/ch5/Hobbies_Leisure_Act1/Ch4_asobu"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u305f\u306e\u3057\u3080",
+          "english": "to enjoy",
+          "audio_url": "../audio/y1/ch5/Hobbies_Leisure_Act1/Ch4_tanoshimu"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3068\u304f\u304e",
+          "english": "special talent; skill",
+          "audio_url": "../audio/y1/ch5/Hobbies_Leisure_Act1/Ch4_tokugi"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u304d\u3063\u3066\u3042\u3064\u3081",
+          "english": "stamp collecting",
+          "audio_url": "../audio/y1/ch5/Hobbies_Leisure_Act1/Ch4_kitteatsume"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3057\u3083\u3057\u3093",
+          "english": "photography; photograph",
+          "audio_url": "../audio/y1/ch5/Hobbies_Leisure_Act1/Ch4_shasin"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3048\u3093\u3052\u3044",
+          "english": "gardening",
+          "audio_url": "../audio/y1/ch5/Hobbies_Leisure_Act1/Ch4_engei"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3057\u3085\u3052\u3044",
+          "english": "handicrafts",
+          "audio_url": "../audio/y1/ch5/Hobbies_Leisure_Act1/Ch4_shugei"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3069\u304f\u3057\u3087",
+          "english": "reading books",
+          "audio_url": "../audio/y1/ch5/Hobbies_Leisure_Act1/Ch4_dokusho"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u304b\u3044\u304c",
+          "english": "painting",
+          "audio_url": "../audio/y1/ch5/Hobbies_Leisure_Act1/Ch4_kaiga"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u304a\u3093\u304c\u304f\u304b\u3093\u3057\u3087\u3046",
+          "english": "music appreciation; listening to music",
+          "audio_url": "../audio/y1/ch5/Hobbies_Leisure_Act1/Ch4_ongakukanshoo"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3046\u305f",
+          "english": "song",
+          "audio_url": "../audio/y1/ch5/Hobbies_Leisure_Act1/Ch4_uta"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u304c\u3063\u304d",
+          "english": "musical instrument",
+          "audio_url": "../audio/y1/ch5/Hobbies_Leisure_Act1/Ch4_gakki"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3055\u3069\u3046",
+          "english": "tea ceremony",
+          "audio_url": "../audio/y1/ch5/Hobbies_Leisure_Act1/Ch4_sadoo"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u30b3\u30f3\u30b5\u30fc\u30c8",
+          "english": "concert",
+          "audio_url": "../audio/y1/ch5/Hobbies_Leisure_Act1/Ch4_konsaato"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u308a\u3087\u3053\u3046",
+          "english": "travel",
+          "audio_url": "../audio/y1/ch5/Hobbies_Leisure_Act1/Ch4_ryokoo"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u30ab\u30eb\u30c1\u30e3\u30fc\u30bb\u30f3\u30bf",
+          "english": "culture education center; adult school",
+          "audio_url": "../audio/y1/ch5/Hobbies_Leisure_Act1/Ch4_karuchaasentaa"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u30af\u30e9\u30d6",
+          "english": "club",
+          "audio_url": "../audio/y1/ch5/Hobbies_Leisure_Act1/Ch4_kurabu"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u30ec\u30b8\u30e3\u30fc",
+          "english": "leisure",
+          "audio_url": "../audio/y1/ch5/Hobbies_Leisure_Act1/Ch4_rejaa"
+        }
+      ]
+    },
+    {
+      "Hobbies and Lesiure Activies #2 - Skills": [
+        {
+          "kanji": "",
+          "furigana": "\u3058\u3087\u3046\u305a\uff08\u306a\uff09",
+          "english": "good at; skillful at",
+          "audio_url": "../audio/y1/ch5/Hobbies_Leisure2-Skills/Ch5_joozuna"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u30d8\u305f\uff08\u306a\uff09",
+          "english": "bad at; unskillful at",
+          "audio_url": "../audio/y1/ch5/Hobbies_Leisure2-Skills/Ch5_hetana"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3060\u3081\uff08\u306a\uff09",
+          "english": "no good",
+          "audio_url": "../audio/y1/ch5/Hobbies_Leisure2-Skills/Ch5_damena"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3068\u304f\u3044\uff08\u306a\uff09",
+          "english": "good at and fond of",
+          "audio_url": "../audio/y1/ch5/Hobbies_Leisure2-Skills/Ch5_tokuina"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u306b\u304c\u3066\uff08\u306a\uff09",
+          "english": "bad at and dislike something",
+          "audio_url": "../audio/y1/ch5/Hobbies_Leisure2-Skills/Ch5_nigatena"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3067\u304d\u308b",
+          "english": "to be able to do",
+          "audio_url": "../audio/y1/ch5/Hobbies_Leisure2-Skills/Ch5_dekiru"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3067\u304d\u306a\u3044",
+          "english": "cannot do",
+          "audio_url": "../audio/y1/ch5/Hobbies_Leisure2-Skills/Ch5_dekinai"
+        }
+      ]
+    },
+    {
+      "Hobbies and Lesiure Activies #2 - Sports": [
+        {
+          "kanji": "",
+          "furigana": "\u30b9\u30dd\u30fc\u30c4",
+          "english": "sports",
+          "audio_url": "../audio/y1/ch5/Hobbies_Leisure_Act2_Sports/Ch5_supootsu"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3057\u3042\u3044",
+          "english": "game",
+          "audio_url": "../audio/y1/ch5/Hobbies_Leisure_Act2_Sports/Ch5_shiai"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u30b8\u30e7\u30ae\u30f3\u30b0",
+          "english": "joggin",
+          "audio_url": "../audio/y1/ch5/Hobbies_Leisure_Act2_Sports/Ch5_jogingu"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u30de\u30e9\u30bd\u30f3",
+          "english": "marathon; long-distance running",
+          "audio_url": "../audio/y1/ch5/Hobbies_Leisure_Act2_Sports/Ch5_marason"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3084\u304d\u3085\u3046",
+          "english": "baseball",
+          "audio_url": "../audio/y1/ch5/Hobbies_Leisure_Act2_Sports/Ch5_yakyuu"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u30d0\u30b9\u30b1\u30c3\u30c8\u30dc\u30fc\u30eb",
+          "english": "basketball",
+          "audio_url": "../audio/y1/ch5/Hobbies_Leisure_Act2_Sports/Ch5_basukettobooru"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u30d0\u30ec\u30fc\u30dc\u30fc\u30eb",
+          "english": "volleyball",
+          "audio_url": "../audio/y1/ch5/Hobbies_Leisure_Act2_Sports/Ch5_bareebooru"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u30c6\u30cb\u30b9",
+          "english": "tennis",
+          "audio_url": "../audio/y1/ch5/Hobbies_Leisure_Act2_Sports/Ch5_tenisu"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u30b4\u30eb\u30d5",
+          "english": "golf",
+          "audio_url": "../audio/y1/ch5/Hobbies_Leisure_Act2_Sports/Ch5_gorufu"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u30d5\u30c3\u30c8\u30dc\u30fc\u30eb",
+          "english": "football",
+          "audio_url": "../audio/y1/ch5/Hobbies_Leisure_Act2_Sports/Ch5_futtobooru"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u30b5\u30c3\u30ab\u30fc",
+          "english": "soccer",
+          "audio_url": "../audio/y1/ch5/Hobbies_Leisure_Act2_Sports/Ch5_sakkaa"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3059\u3044\u3048\u3044",
+          "english": "swimming",
+          "audio_url": "../audio/y1/ch5/Hobbies_Leisure_Act2_Sports/Ch5_suiei"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u30c0\u30a4\u30d3\u30f3\u30b0",
+          "english": "diving",
+          "audio_url": "../audio/y1/ch5/Hobbies_Leisure_Act2_Sports/Ch5_daibingu"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u30d7\u30fc\u30eb",
+          "english": "(swimming) pool",
+          "audio_url": "../audio/y1/ch5/Hobbies_Leisure_Act2_Sports/Ch5_puuru"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u30e8\u30c3\u30c8",
+          "english": "yacht",
+          "audio_url": "../audio/y1/ch5/Hobbies_Leisure_Act2_Sports/Ch5_yotto"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u30ad\u30e3\u30f3\u30d4\u30f3\u30b0",
+          "english": "camping",
+          "audio_url": "../audio/y1/ch5/Hobbies_Leisure_Act2_Sports/Ch5_kyanpingu"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u30a8\u30a2\u30ed\u30d3\u30af\u30b9",
+          "english": "aerobics",
+          "audio_url": "../audio/y1/ch5/Hobbies_Leisure_Act2_Sports/Ch5_earobikusu"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u30b5\u30a4\u30af\u30ea\u30f3\u30b0",
+          "english": "bicycling",
+          "audio_url": "../audio/y1/ch5/Hobbies_Leisure_Act2_Sports/Ch5_saikuringu"
+        }
+      ]
+    },
+    {
+      "My Family": [
+        {
+          "kanji": "",
+          "furigana": "\u304b\u305e\u304f",
+          "english": "family",
+          "audio_url": "../audio/y1/ch5/My_Family/Ch5_kazoku"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u308a\u3087\u3046\u3057\u3093",
+          "english": "parents",
+          "audio_url": "../audio/y1/ch5/My_Family/Ch5_ryooshin"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3061\u3061",
+          "english": "father",
+          "audio_url": "../audio/y1/ch5/My_Family/Ch5_chichi"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u306f\u306f",
+          "english": "mother",
+          "audio_url": "../audio/y1/ch5/My_Family/Ch5_haha"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3053\u3069\u3082",
+          "english": "child; children",
+          "audio_url": "../audio/y1/ch5/My_Family/Ch5_kodomo"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3080\u3059\u3053",
+          "english": "son",
+          "audio_url": "../audio/y1/ch5/My_Family/Ch5_musuko"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3080\u3059\u3081",
+          "english": "daughter",
+          "audio_url": "../audio/y1/ch5/My_Family/Ch5_musume"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u304d\u3087\u3046\u3060\u3044",
+          "english": "siblings",
+          "audio_url": "../audio/y1/ch5/My_Family/Ch5_kyoodai"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3042\u306b",
+          "english": "older brother",
+          "audio_url": "../audio/y1/ch5/My_Family/Ch5_ani"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3042\u306d",
+          "english": "older sister",
+          "audio_url": "../audio/y1/ch5/My_Family/Ch5_ane"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u304a\u3068\u3046\u3068",
+          "english": "younger brother",
+          "audio_url": "../audio/y1/ch5/My_Family/Ch5_ototo"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3044\u3082\u3046\u3068",
+          "english": "younger sister",
+          "audio_url": "../audio/y1/ch5/My_Family/Ch5_imooto"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u305d\u3075",
+          "english": "grandfather",
+          "audio_url": "../audio/y1/ch5/My_Family/Ch5_sofu"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u305d\u307c",
+          "english": "grandmother",
+          "audio_url": "../audio/y1/ch5/My_Family/Ch5_sobo"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u307e\u3054",
+          "english": "grandchild; grandchildren",
+          "audio_url": "../audio/y1/ch5/My_Family/Ch5_mago"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3075\u3046\u3075",
+          "english": "husband; wife",
+          "audio_url": "../audio/y1/ch5/My_Family/Ch5_fuufu"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u304a\u3063\u3068",
+          "english": "husband",
+          "audio_url": "../audio/y1/ch5/My_Family/Ch5_otto"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3057\u3085\u3058\u3093",
+          "english": "husband",
+          "audio_url": "../audio/y1/ch5/My_Family/Ch5_shujin"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3064\u307e",
+          "english": "wife",
+          "audio_url": "../audio/y1/ch5/My_Family/Ch5_tsuma"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u304b\u306a\u3044",
+          "english": "wife",
+          "audio_url": "../audio/y1/ch5/My_Family/Ch5_kanai"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u304a\u3058",
+          "english": "uncle",
+          "audio_url": "../audio/y1/ch5/My_Family/Ch5_oji"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u304a\u3070",
+          "english": "aunt",
+          "audio_url": "../audio/y1/ch5/My_Family/Ch5_oba"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3057\u3093\u305b\u304d",
+          "english": "relative",
+          "audio_url": "../audio/y1/ch5/My_Family/Ch5_shinseki"
+        }
+      ]
+    },
+    {
+      "Other People's Family": [
+        {
+          "kanji": "",
+          "furigana": "\u3054\u304b\u305e\u304f",
+          "english": "family (polite)",
+          "audio_url": "../audio/y1/ch5/Other_People_Family/Ch5_gokazoku"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3054\u308a\u3087\u3046\u3057\u3093",
+          "english": "parents (polite)",
+          "audio_url": "../audio/y1/ch5/Other_People_Family/Ch5_goryooshin"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u304a\u3068\u3046\u3055\u3093",
+          "english": "father (polite)",
+          "audio_url": "../audio/y1/ch5/Other_People_Family/Ch5_otoosan"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u304a\u304b\u3042\u3055\u3093",
+          "english": "mother (polite)",
+          "audio_url": "../audio/y1/ch5/Other_People_Family/Ch5_okaasan"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u304a\u3053\u3055\u3093",
+          "english": "child; children (polite)",
+          "audio_url": "../audio/y1/ch5/Other_People_Family/Ch5_okosan"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3080\u3059\u3053\u3055\u3093",
+          "english": "son (polite)",
+          "audio_url": "../audio/y1/ch5/Other_People_Family/Ch5_musukosan"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3080\u3059\u3081\u3055\u3093",
+          "english": "daughter (polite)",
+          "audio_url": "../audio/y1/ch5/Other_People_Family/Ch5_musumesan"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u304a\u3058\u3087\u3046\u3055\u3093",
+          "english": "daughter (polite)",
+          "audio_url": "../audio/y1/ch5/Other_People_Family/Ch5_ojoosan"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3054\u304d\u3087\u3046\u3060\u3044",
+          "english": "siblings (polite)",
+          "audio_url": "../audio/y1/ch5/Other_People_Family/Ch5_gokyoodai"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u304a\u306b\u3044\u3055\u3093",
+          "english": "older brother (polite)",
+          "audio_url": "../audio/y1/ch5/Other_People_Family/Ch5_oniisan"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u304a\u306d\u3048\u3055\u3093",
+          "english": "older sister (polite)",
+          "audio_url": "../audio/y1/ch5/Other_People_Family/Ch5_oneesan"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u304a\u3068\u3046\u3068\u3055\u3093",
+          "english": "younger brother (polite)",
+          "audio_url": "../audio/y1/ch5/Other_People_Family/Ch5_otootosan"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3044\u3082\u3046\u3068\u3055\u3093",
+          "english": "younger sister (polite)",
+          "audio_url": "../audio/y1/ch5/Other_People_Family/Ch5_imootosan"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u304a\u3058\u3044\u3055\u3093",
+          "english": "grandfather (polite)",
+          "audio_url": "../audio/y1/ch5/Other_People_Family/Ch5_ojiisan"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u304a\u3070\u3042\u3055\u3093",
+          "english": "grandmother (polite)",
+          "audio_url": "../audio/y1/ch5/Other_People_Family/Ch5_obaasan"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u304a\u307e\u3054\u3055\u3093",
+          "english": "grandchild; grandchildren (polite)",
+          "audio_url": "../audio/y1/ch5/Other_People_Family/Ch5_omagosan"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3054\u3075\u3046\u3075",
+          "english": "husband and wife (polite)",
+          "audio_url": "../audio/y1/ch5/Other_People_Family/Ch5_gofuufu"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3054\u3057\u3085\u3058\u3093",
+          "english": "husband (polite)",
+          "audio_url": "../audio/y1/ch5/Other_People_Family/Ch5_goshujin"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u304a\u304f\u3055\u3093",
+          "english": "wife (polite)",
+          "audio_url": "../audio/y1/ch5/Other_People_Family/Ch5_okusan"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u304a\u3058\u3055\u3093",
+          "english": "uncle (polite)",
+          "audio_url": "../audio/y1/ch5/Other_People_Family/Ch5_ojisan"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u304a\u3070\u3055\u3093",
+          "english": "aunt (polite)",
+          "audio_url": "../audio/y1/ch5/Other_People_Family/Ch5_obasan"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3054\u3057\u3093\u305b\u304d",
+          "english": "relative (polite)",
+          "audio_url": "../audio/y1/ch5/Other_People_Family/Ch5_goshinseki"
+        }
+      ]
+    },
+    {
+      "People": [
+        {
+          "kanji": "",
+          "furigana": "\u304a\u3068\u3053",
+          "english": "male",
+          "audio_url": "../audio/y1/ch5/People/Ch5_otoko"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u304a\u3093\u306a",
+          "english": "female",
+          "audio_url": "../audio/y1/ch5/People/Ch5_onna"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3072\u3068",
+          "english": "person",
+          "audio_url": "../audio/y1/ch5/People/Ch5_hito"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u304b\u305f",
+          "english": "person (polite)",
+          "audio_url": "../audio/y1/ch5/People/Ch5_kata"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3053",
+          "english": "child",
+          "audio_url": "../audio/y1/ch5/People/Ch5_ko"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u304a\u3068\u3053\u306e\u3053",
+          "english": "boy",
+          "audio_url": "../audio/y1/ch5/People/Ch5_otokonoko"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u304a\u3093\u306a\u306e\u3053",
+          "english": "girl",
+          "audio_url": "../audio/y1/ch5/People/Ch5_onnanoko"
+        }
+      ]
+    }
+  ],
+  "Chapter 6": [
+    {
+      "Foods and Beverages": [
+        {
+          "kanji": "",
+          "furigana": "\u306e\u307f\u3082\u306e",
+          "english": "drinks, beverages",
+          "audio_url": "../audio/y1/Ch6/Flavors_Tastes_Seasonings/Ch6_"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3057\u3087\u304f\u308a\u3087\u3046\u3072\u3093",
+          "english": "foodstuffs",
+          "audio_url": "../audio/y1/Ch6/Flavors_Tastes_Seasonings/Ch6_"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u304a\u306a\u304b\u304c\u3059\u304f",
+          "english": "to get hungry",
+          "audio_url": "../audio/y1/Ch6/Flavors_Tastes_Seasonings/Ch6_"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u306e\u3069\u304c\u304b\u308f\u304f",
+          "english": "to get thirsty",
+          "audio_url": "../audio/y1/Ch6/Flavors_Tastes_Seasonings/Ch6_"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u306b\u304f",
+          "english": "meat",
+          "audio_url": "../audio/y1/Ch6/Flavors_Tastes_Seasonings/Ch6_"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u304e\u3085\u3046\u306b\u304f",
+          "english": "beef",
+          "audio_url": "../audio/y1/Ch6/Flavors_Tastes_Seasonings/Ch6_"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3076\u305f\u306b\u304f",
+          "english": "pork",
+          "audio_url": "../audio/y1/Ch6/Flavors_Tastes_Seasonings/Ch6_"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3068\u308a\u306b\u304f",
+          "english": "chicken",
+          "audio_url": "../audio/y1/Ch6/Flavors_Tastes_Seasonings/Ch6_"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u30e9\u30e0",
+          "english": "lamb",
+          "audio_url": "../audio/y1/Ch6/Flavors_Tastes_Seasonings/Ch6_"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u30df\u30f3\u30c1",
+          "english": "ground meat",
+          "audio_url": "../audio/y1/Ch6/Flavors_Tastes_Seasonings/Ch6_"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3072\u304d\u306b\u304f",
+          "english": "ground meat",
+          "audio_url": "../audio/y1/Ch6/Flavors_Tastes_Seasonings/Ch6_"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3055\u304b\u306a",
+          "english": "fish",
+          "audio_url": "../audio/y1/Ch6/Flavors_Tastes_Seasonings/Ch6_"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u304b\u3044",
+          "english": "shellfish",
+          "audio_url": "../audio/y1/Ch6/Flavors_Tastes_Seasonings/Ch6_"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u307e\u3050\u308d",
+          "english": "tuna",
+          "audio_url": "../audio/y1/Ch6/Flavors_Tastes_Seasonings/Ch6_"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3055\u3051",
+          "english": "salmon",
+          "audio_url": "../audio/y1/Ch6/Flavors_Tastes_Seasonings/Ch6_"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3044\u304b",
+          "english": "cuttlefish",
+          "audio_url": "../audio/y1/Ch6/Flavors_Tastes_Seasonings/Ch6_"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u305f\u3053",
+          "english": "octopus",
+          "audio_url": "../audio/y1/Ch6/Flavors_Tastes_Seasonings/Ch6_"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3084\u3055\u3044",
+          "english": "vegetable",
+          "audio_url": "../audio/y1/Ch6/Flavors_Tastes_Seasonings/Ch6_"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u30ec\u30bf\u30b9",
+          "english": "lettuce",
+          "audio_url": "../audio/y1/Ch6/Flavors_Tastes_Seasonings/Ch6_"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u306b\u3093\u3058\u3093",
+          "english": "carrot",
+          "audio_url": "../audio/y1/Ch6/Flavors_Tastes_Seasonings/Ch6_"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u307e\u3081",
+          "english": "bean, pea",
+          "audio_url": "../audio/y1/Ch6/Flavors_Tastes_Seasonings/Ch6_"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3058\u3083\u304c\u3044\u3082",
+          "english": "potato",
+          "audio_url": "../audio/y1/Ch6/Flavors_Tastes_Seasonings/Ch6_"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u304d\u3085\u3046\u308a",
+          "english": "cucumber",
+          "audio_url": "../audio/y1/Ch6/Flavors_Tastes_Seasonings/Ch6_"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u305f\u307e\u306d\u304e",
+          "english": "onion",
+          "audio_url": "../audio/y1/Ch6/Flavors_Tastes_Seasonings/Ch6_"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u30c8\u30de\u30c8",
+          "english": "tomato",
+          "audio_url": "../audio/y1/Ch6/Flavors_Tastes_Seasonings/Ch6_"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u30d4\u30fc\u30de\u30f3",
+          "english": "green pepper",
+          "audio_url": "../audio/y1/Ch6/Flavors_Tastes_Seasonings/Ch6_"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u304f\u3060\u3082\u306e",
+          "english": "fruit",
+          "audio_url": "../audio/y1/Ch6/Flavors_Tastes_Seasonings/Ch6_"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u30d0\u30ca\u30ca",
+          "english": "banana",
+          "audio_url": "../audio/y1/Ch6/Flavors_Tastes_Seasonings/Ch6_"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u307f\u304b\u3093",
+          "english": "mandarin orange",
+          "audio_url": "../audio/y1/Ch6/Flavors_Tastes_Seasonings/Ch6_"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u308a\u3093\u3054",
+          "english": "apple",
+          "audio_url": "../audio/y1/Ch6/Flavors_Tastes_Seasonings/Ch6_"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u306a\u3057",
+          "english": "pear",
+          "audio_url": "../audio/y1/Ch6/Flavors_Tastes_Seasonings/Ch6_"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3076\u3069\u3046",
+          "english": "grape",
+          "audio_url": "../audio/y1/Ch6/Flavors_Tastes_Seasonings/Ch6_"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u30ec\u30e2\u30f3",
+          "english": "lemon",
+          "audio_url": "../audio/y1/Ch6/Flavors_Tastes_Seasonings/Ch6_"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u30d1\u30a4\u30ca\u30c3\u30d7\u30eb",
+          "english": "pineapple",
+          "audio_url": "../audio/y1/Ch6/Flavors_Tastes_Seasonings/Ch6_"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u30e1\u30ed\u30f3",
+          "english": "melon",
+          "audio_url": "../audio/y1/Ch6/Flavors_Tastes_Seasonings/Ch6_"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3044\u3061\u3054",
+          "english": "strawberry",
+          "audio_url": "../audio/y1/Ch6/Flavors_Tastes_Seasonings/Ch6_"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u304a\u3061\u3083",
+          "english": "tea, Japanese tea",
+          "audio_url": "../audio/y1/Ch6/Flavors_Tastes_Seasonings/Ch6_"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3053\u3046\u3061\u3083",
+          "english": "black tea",
+          "audio_url": "../audio/y1/Ch6/Flavors_Tastes_Seasonings/Ch6_"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u30b3\u30fc\u30d2\u30fc",
+          "english": "coffee",
+          "audio_url": "../audio/y1/Ch6/Flavors_Tastes_Seasonings/Ch6_"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u304e\u3085\u3046\u306b\u3085\u3046",
+          "english": "milk",
+          "audio_url": "../audio/y1/Ch6/Flavors_Tastes_Seasonings/Ch6_"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u30df\u30eb\u30af",
+          "english": "milk",
+          "audio_url": "../audio/y1/Ch6/Flavors_Tastes_Seasonings/Ch6_"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u30b8\u30e5\u30fc\u30b9",
+          "english": "juice",
+          "audio_url": "../audio/y1/Ch6/Flavors_Tastes_Seasonings/Ch6_"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u304a\u3055\u3051",
+          "english": "sake, alcoholic beverage",
+          "audio_url": "../audio/y1/Ch6/Flavors_Tastes_Seasonings/Ch6_"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u30ef\u30a4\u30f3",
+          "english": "wine",
+          "audio_url": "../audio/y1/Ch6/Flavors_Tastes_Seasonings/Ch6_"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u30d3\u30fc\u30eb",
+          "english": "beer",
+          "audio_url": "../audio/y1/Ch6/Flavors_Tastes_Seasonings/Ch6_"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u30ab\u30af\u30c6\u30eb",
+          "english": "cocktail",
+          "audio_url": "../audio/y1/Ch6/Flavors_Tastes_Seasonings/Ch6_"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u30a6\u30a4\u30b9\u30ad\u30fc",
+          "english": "whiskey",
+          "audio_url": "../audio/y1/Ch6/Flavors_Tastes_Seasonings/Ch6_"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u307f\u305a",
+          "english": "water (unheated)",
+          "audio_url": "../audio/y1/Ch6/Flavors_Tastes_Seasonings/Ch6_"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u304a\u3086",
+          "english": "hot water, boiling water",
+          "audio_url": "../audio/y1/Ch6/Flavors_Tastes_Seasonings/Ch6_"
+        }
+      ]
+    },
+    {
+      "Flavors, Tastes, and Seasonings": [
+        {
+          "kanji": "",
+          "furigana": "\u3042\u3058",
+          "english": "flavor; taste",
+          "audio_url": "../audio/y1/Ch6/Flavors_Tastes_Seasonings/Ch6_aji"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3042\u3058\u304c\u3044\u3044",
+          "english": "taste good",
+          "audio_url": "../audio/y1/Ch6/Flavors_Tastes_Seasonings/Ch6_aji_ii"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3042\u3058\u304c\u306a\u3044",
+          "english": "have no taste",
+          "audio_url": "../audio/y1/Ch6/Flavors_Tastes_Seasonings/Ch6_aji_nai"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3042\u3058\u307f\u3059\u308b",
+          "english": "to taste a sample",
+          "audio_url": "../audio/y1/Ch6/Flavors_Tastes_Seasonings/Ch6_ajimisuru"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u304a\u3044\u3057\u3044",
+          "english": "tasty; delicioius",
+          "audio_url": "../audio/y1/Ch6/Flavors_Tastes_Seasonings/Ch6_oishii"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u307e\u305a\u3044",
+          "english": "not tasty; tastes bad",
+          "audio_url": "../audio/y1/Ch6/Flavors_Tastes_Seasonings/Ch6_mazui"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3042\u307e\u3044",
+          "english": "sweet",
+          "audio_url": "../audio/y1/Ch6/Flavors_Tastes_Seasonings/Ch6_amai"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u306b\u304c\u3044",
+          "english": "bitter",
+          "audio_url": "../audio/y1/Ch6/Flavors_Tastes_Seasonings/Ch6_nigai"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u304b\u3089\u3044",
+          "english": "spicy; hot (spicy)",
+          "audio_url": "../audio/y1/Ch6/Flavors_Tastes_Seasonings/Ch6_karai"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3057\u304a\u304b\u3089\u3044",
+          "english": "salty",
+          "audio_url": "../audio/y1/Ch6/Flavors_Tastes_Seasonings/Ch6_shiokarai"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3059\u3063\u3071\u3044",
+          "english": "sour",
+          "audio_url": "../audio/y1/Ch6/Flavors_Tastes_Seasonings/Ch6_suppai"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3057\u3076\u3044",
+          "english": "astringent",
+          "audio_url": "../audio/y1/Ch6/Flavors_Tastes_Seasonings/Ch6_shibui"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3061\u3087\u3046\u307f\u308a\u3087\u3046",
+          "english": "seasoning",
+          "audio_url": "../audio/y1/Ch6/Flavors_Tastes_Seasonings/Ch6_choumiryoo"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3057\u304a",
+          "english": "salt",
+          "audio_url": "../audio/y1/Ch6/Flavors_Tastes_Seasonings/Ch6_shio"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3055\u3068\u3046",
+          "english": "sugar",
+          "audio_url": "../audio/y1/Ch6/Flavors_Tastes_Seasonings/Ch6_satoo"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3053\u3057\u3087\u3046",
+          "english": "pepper",
+          "audio_url": "../audio/y1/Ch6/Flavors_Tastes_Seasonings/Ch6_koshoo"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3057\u3087\u3046\u3086",
+          "english": "soy sauce",
+          "audio_url": "../audio/y1/Ch6/Flavors_Tastes_Seasonings/Ch6_shooyu"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u307f\u305d",
+          "english": "miso (fermented soybean paste)",
+          "audio_url": "../audio/y1/Ch6/Flavors_Tastes_Seasonings/Ch6_miso"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3059",
+          "english": "vinegar",
+          "audio_url": "../audio/y1/Ch6/Flavors_Tastes_Seasonings/Ch6_su"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u30bd\u30fc\u30b9",
+          "english": "prepared sauce (like steak sauce)",
+          "audio_url": "../audio/y1/Ch6/Flavors_Tastes_Seasonings/Ch6_soosu"
+        }
+      ]
+    },
+    {
+      "Food Preparation": [
+        {
+          "kanji": "",
+          "furigana": "\u308a\u3087\u3046\u308a\u306e\u307b\u3093",
+          "english": "cookbook",
+          "audio_url": "../audio/y1/Ch6/Food_Preparation/Ch6_ryoorinohon"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3056\u3044\u308a\u3087\u3046",
+          "english": "ingredients",
+          "audio_url": "../audio/y1/Ch6/Food_Preparation/Ch6_zairyoo"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u306a\u307e",
+          "english": "raw",
+          "audio_url": "../audio/y1/Ch6/Food_Preparation/Ch6_nama"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u304d\u308b",
+          "english": "to cut",
+          "audio_url": "../audio/y1/Ch6/Food_Preparation/Ch6_kiru"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u306b\u308b",
+          "english": "to boil",
+          "audio_url": "../audio/y1/Ch6/Food_Preparation/Ch6_niru"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3084\u304f",
+          "english": "to broil; to grill; to bake",
+          "audio_url": "../audio/y1/Ch6/Food_Preparation/Ch6_yaku"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3044\u305f\u3081\u308b",
+          "english": "to stir-fry",
+          "audio_url": "../audio/y1/Ch6/Food_Preparation/Ch6_itameru"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3042\u3052\u308b",
+          "english": "to deep-fry",
+          "audio_url": "../audio/y1/Ch6/Food_Preparation/Ch6_ageru"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3080\u3059",
+          "english": "to steam",
+          "audio_url": "../audio/y1/Ch6/Food_Preparation/Ch6_musu"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3086\u3067\u308b",
+          "english": "to cook in boiling water",
+          "audio_url": "../audio/y1/Ch6/Food_Preparation/Ch6_yuderu"
+        }
+      ]
+    },
+    {
+      "Meals and Restaurants": [
+        {
+          "kanji": "",
+          "furigana": "\u3057\u3087\u304f\u3058",
+          "english": "meal",
+          "audio_url": "../audio/y1/Ch6/Meals_Restaurants/Ch6_shokuji"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3054\u306f\u3093",
+          "english": "meal; cooked rice",
+          "audio_url": "../audio/y1/Ch6/Meals_Restaurants/Ch6_gohan"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u304a\u3084\u3064\u3001\u30b9\u30ca\u30c3\u30af",
+          "english": "snack",
+          "audio_url": "../audio/y1/Ch6/Meals_Restaurants/Ch6_oyatsu_sunakku"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3084\u3057\u3087\u304f",
+          "english": "evening snack",
+          "audio_url": "../audio/y1/Ch6/Meals_Restaurants/Ch6_yashoku"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u30ec\u30b9\u30c8\u30e9\u30f3",
+          "english": "restaurant",
+          "audio_url": "../audio/y1/Ch6/Meals_Restaurants/Ch6_resutoran"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3060\u3044\u3069\u3053\u308d",
+          "english": "kitchen",
+          "audio_url": "../audio/y1/Ch6/Meals_Restaurants/Ch6_daidokoro"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u30ad\u30c3\u30c1\u30f3",
+          "english": "kitchen",
+          "audio_url": "../audio/y1/Ch6/Meals_Restaurants/Ch6_kicchin"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u30d5\u30a1\u30fc\u30b9\u30c8\u30d5\u30fc\u30c9",
+          "english": "fast food",
+          "audio_url": "../audio/y1/Ch6/Meals_Restaurants/Ch6_faasutofuudo"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u30c7\u30b6\u30fc\u30c8",
+          "english": "dessert",
+          "audio_url": "../audio/y1/Ch6/Meals_Restaurants/Ch6_dezaato"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u308f\u3057\u3087\u304f",
+          "english": "Japanese cuisine",
+          "audio_url": "../audio/y1/Ch6/Meals_Restaurants/Ch6_washoku"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3088\u3046\u3057\u3087\u304f",
+          "english": "Western cuisine",
+          "audio_url": "../audio/y1/Ch6/Meals_Restaurants/Ch6_yooshoku"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3061\u3085\u3046\u304b\u308a\u3087\u3046\u308a",
+          "english": "Chinese cuisine",
+          "audio_url": "../audio/y1/Ch6/Meals_Restaurants/Ch6_chuukaryoori"
+        }
+      ]
+    },
+    {
+      "Utensils and Appliances": [
+        {
+          "kanji": "",
+          "furigana": "\u307b\u3046\u3061\u3087\u3046",
+          "english": "cleaver; big cutting knife",
+          "audio_url": "../audio/y1/Ch6/Utensils_Appliances/Ch6_hoochoo"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u306a\u3079",
+          "english": "pan; pot",
+          "audio_url": "../audio/y1/Ch6/Utensils_Appliances/Ch6_nabe"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u304b\u3093\u304d\u308a",
+          "english": "can opener",
+          "audio_url": "../audio/y1/Ch6/Utensils_Appliances/Ch6_kankiri"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u305b\u3093\u306c\u304d",
+          "english": "bottle opener",
+          "audio_url": "../audio/y1/Ch6/Utensils_Appliances/Ch6_sennuki"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3055\u3089",
+          "english": "plate; dish",
+          "audio_url": "../audio/y1/Ch6/Utensils_Appliances/Ch6_sara"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u30b3\u30c3\u30d7",
+          "english": "glass",
+          "audio_url": "../audio/y1/Ch6/Utensils_Appliances/Ch6_koppu"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3061\u3083\u308f\u3093",
+          "english": "rice bowl or teacup",
+          "audio_url": "../audio/y1/Ch6/Utensils_Appliances/Ch6_chawan"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u304a\u308f\u3093",
+          "english": "soup bowl",
+          "audio_url": "../audio/y1/Ch6/Utensils_Appliances/Ch6_owan"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u306f\u3057",
+          "english": "chopsticks",
+          "audio_url": "../audio/y1/Ch6/Utensils_Appliances/Ch6_hashi"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u308c\u3044\u305e\u3046\u3053",
+          "english": "refrigerator",
+          "audio_url": "../audio/y1/Ch6/Utensils_Appliances/Ch6_reizooko"
+        }
+      ]
+    }
+  ],
+  "Chapter 7": [
+    {
+      "Clothes and Verbs": [
+        {
+          "kanji": "",
+          "furigana": "\u304d\u308b",
+          "english": "to wear; to put on, e.g., T-shirt",
+          "audio_url": "../audio/y1/Ch7/Clothes/Ch7_kiru"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u306f\u304f",
+          "english": "to wear; to put on (over legs of feet)",
+          "audio_url": "../audio/y1/Ch7/Clothes/Ch7_haku_wear"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u304b\u3076\u308b",
+          "english": "to wear; to put on (over head)",
+          "audio_url": "../audio/y1/Ch7/Clothes/Ch7_kaburu"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3064\u3051\u308b",
+          "english": "to wear; to put on (things that \"attaches\", e.g., ribbon)",
+          "audio_url": "../audio/y1/Ch7/Clothes/Ch7_tsukeru"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u306c\u3050",
+          "english": "to take off",
+          "audio_url": "../audio/y1/Ch7/Clothes/Ch7_nugu"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3088\u3046\u3075\u304f",
+          "english": "Western-style clothes",
+          "audio_url": "../audio/y1/Ch7/Clothes/Ch7_yoofuku"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u308f\u3075\u304f",
+          "english": "Japanese-style clothes",
+          "audio_url": "../audio/y1/Ch7/Clothes/Ch7_wafuku"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u304d\u3082\u306e",
+          "english": "kimono",
+          "audio_url": "../audio/y1/Ch7/Clothes/Ch7_kimono"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u305b\u3073\u308d",
+          "english": "suit",
+          "audio_url": "../audio/y1/Ch7/Clothes/Ch7_sebiro"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u30ef\u30a4\u30b7\u30e3\u30c4",
+          "english": "(mens) dress shirt",
+          "audio_url": "../audio/y1/Ch7/Clothes/Ch7_waishatsu"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u30cd\u30af\u30bf\u30a4",
+          "english": "necktie",
+          "audio_url": "../audio/y1/Ch7/Clothes/Ch7_nekutai"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u30c9\u30ec\u30b9",
+          "english": "dress",
+          "audio_url": "../audio/y1/Ch7/Clothes/Ch7_doresu"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u30ef\u30f3\u30d4\u30fc\u30b9",
+          "english": "dress (one piece)",
+          "audio_url": "../audio/y1/Ch7/Clothes/Ch7_wanpiisu"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u30bb\u30fc\u30bf\u30fc",
+          "english": "sweater",
+          "audio_url": "../audio/y1/Ch7/Clothes/Ch7_seetaa"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u30d6\u30e9\u30a6\u30b9",
+          "english": "blouse",
+          "audio_url": "../audio/y1/Ch7/Clothes/Ch7_burausu"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u30de\u30d5\u30e9\u30fc",
+          "english": "muffler",
+          "audio_url": "../audio/y1/Ch7/Clothes/Ch7_mafuraa"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u30cf\u30f3\u30ab\u30c1",
+          "english": "handkerchief",
+          "audio_url": "../audio/y1/Ch7/Clothes/Ch7_kankachi"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3081\u304c\u306d",
+          "english": "glasses",
+          "audio_url": "../audio/y1/Ch7/Clothes/Ch7_megane"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u30b5\u30f3\u30b0\u30e9\u30b9",
+          "english": "sunglasses",
+          "audio_url": "../audio/y1/Ch7/Clothes/Ch7_sangurasu"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u30ba\u30dc\u30f3",
+          "english": "trousers",
+          "audio_url": "../audio/y1/Ch7/Clothes/Ch7_zubon"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u30b9\u30ab\u30fc\u30c8",
+          "english": "skirt",
+          "audio_url": "../audio/y1/Ch7/Clothes/Ch7_sukaato"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u30b3\u30fc\u30c8",
+          "english": "coat",
+          "audio_url": "../audio/y1/Ch7/Clothes/Ch7_kooto"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3057\u305f\u304e",
+          "english": "underwear",
+          "audio_url": "../audio/y1/Ch7/Clothes/Ch7_shitagi"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u30b7\u30e3\u30c4",
+          "english": "shirt",
+          "audio_url": "../audio/y1/Ch7/Clothes/Ch7_shatsu"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u30d1\u30f3\u30c4",
+          "english": "briefs; panties",
+          "audio_url": "../audio/y1/Ch7/Clothes/Ch7_pantsu"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u30d6\u30e9\u30b8\u30e3\u30fc",
+          "english": "bra",
+          "audio_url": "../audio/y1/Ch7/Clothes/Ch7_burajaa"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u30d1\u30b8\u30e3\u30de",
+          "english": "pajamas",
+          "audio_url": "../audio/y1/Ch7/Clothes/Ch7_pajama"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u307f\u305a\u304e",
+          "english": "bathing suit",
+          "audio_url": "../audio/y1/Ch7/Clothes/Ch7_mizugi"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u304f\u3064",
+          "english": "shoe",
+          "audio_url": "../audio/y1/Ch7/Clothes/Ch7_kutsu"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u30d6\u30fc\u30c4",
+          "english": "boot",
+          "audio_url": "../audio/y1/Ch7/Clothes/Ch7_buutsu"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u304f\u3064\u3057\u305f",
+          "english": "sock",
+          "audio_url": "../audio/y1/Ch7/Clothes/Ch7_kutsushita"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u30b9\u30c8\u30c3\u30ad\u30f3\u30b0",
+          "english": "stockings",
+          "audio_url": "../audio/y1/Ch7/Clothes/Ch7_sutokkingu"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u307c\u3046\u3057",
+          "english": "hat; cap",
+          "audio_url": "../audio/y1/Ch7/Clothes/Ch7_booshi"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u30d9\u30eb\u30c8",
+          "english": "belt",
+          "audio_url": "../audio/y1/Ch7/Clothes/Ch7_beruto"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u30b9\u30dd\u30fc\u30c4\u30a6\u30a7\u30a2",
+          "english": "sportswear",
+          "audio_url": "../audio/y1/Ch7/Clothes/Ch7_supootsuueaa"
+        },
+        {
+          "kanji": "",
+          "furigana": "T\u30b7\u30e3\u30c4",
+          "english": "t-shirt",
+          "audio_url": "../audio/y1/Ch7/Clothes/Ch7_t_shatsu"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u30b8\u30fc\u30f3\u30ba\u3001\u30b8\u30fc\u30d1\u30f3",
+          "english": "jeans",
+          "audio_url": "../audio/y1/Ch7/Clothes/Ch7_jiinzu_jiipan"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u30b7\u30e7\u30fc\u30c8\u30d1\u30f3\u30c4",
+          "english": "shorts",
+          "audio_url": "../audio/y1/Ch7/Clothes/Ch7_shootopantsu"
+        }
+      ]
+    },
+    {
+      "Colors": [
+        {
+          "kanji": "",
+          "furigana": "\u3044\u308d",
+          "english": "color",
+          "audio_url": "../audio/y1/Ch7/Colors/Ch7_iro"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3057\u308d\u3001\u3057\u308d\u3044",
+          "english": "white",
+          "audio_url": "../audio/y1/Ch7/Colors/Ch7_shiro_shiroi"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u304f\u308d\u3001\u304f\u308d\u3044",
+          "english": "black",
+          "audio_url": "../audio/y1/Ch7/Colors/Ch7_kuro_kuroi"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3042\u304b\u3001\u3042\u304b\u3044",
+          "english": "red",
+          "audio_url": "../audio/y1/Ch7/Colors/Ch7_aka_akai"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3042\u304a\u3001\u3042\u304a\u3044",
+          "english": "blue",
+          "audio_url": "../audio/y1/Ch7/Colors/Ch7_ao_aoi"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u304d\u3044\u308d\u3001\u304d\u3044\u308d\u3044",
+          "english": "yellow",
+          "audio_url": "../audio/y1/Ch7/Colors/Ch7_kiiro_kiiroi"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u307f\u3069\u308a",
+          "english": "green",
+          "audio_url": "../audio/y1/Ch7/Colors/Ch7_midori"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3061\u3083\u3044\u308d\u3001\u3061\u3083\u3044\u308d\u3044",
+          "english": "brown",
+          "audio_url": "../audio/y1/Ch7/Colors/Ch7_chairo_chairoi"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u306f\u3044\u3044\u308d",
+          "english": "gray",
+          "audio_url": "../audio/y1/Ch7/Colors/Ch7_haiiro"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u307f\u305a\u3044\u308d",
+          "english": "light blue",
+          "audio_url": "../audio/y1/Ch7/Colors/Ch7_mizuiro"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u306f\u3067\uff08\u306a\uff09",
+          "english": "bright; gaudy",
+          "audio_url": "../audio/y1/Ch7/Colors/Ch7_hadena"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3058\u307f\uff08\u306a\uff09",
+          "english": "subdued",
+          "audio_url": "../audio/y1/Ch7/Colors/Ch7_jimina"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u304f\u3089\u3044",
+          "english": "dark",
+          "audio_url": "../audio/y1/Ch7/Colors/Ch7_kurai"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3042\u304b\u308b\u3044",
+          "english": "light; bright",
+          "audio_url": "../audio/y1/Ch7/Colors/Ch7_akarui"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3046\u3059\u3044",
+          "english": "",
+          "audio_url": "../audio/y1/Ch7/Colors/Ch7_usui"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3053\u3044",
+          "english": "",
+          "audio_url": "../audio/y1/Ch7/Colors/Ch7_koi"
+        }
+      ]
+    },
+    {
+      "Shopping": [
+        {
+          "kanji": "",
+          "furigana": "\u30d0\u30fc\u30b2\u30f3\u30bb\u30fc\u30eb",
+          "english": "bargain sale",
+          "audio_url": "../audio/y1/Ch7/Shopping/Ch7_baagenseeru"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u304a\u304d\u3083\u304f\u3055\u3093",
+          "english": "customer",
+          "audio_url": "../audio/y1/Ch7/Shopping/Ch7_okyakusan"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3057\u3085\u3058\u3093",
+          "english": "store owner",
+          "audio_url": "../audio/y1/Ch7/Shopping/Ch7_shujin"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3066\u3093\u3044\u3093",
+          "english": "store clerk",
+          "audio_url": "../audio/y1/Ch7/Shopping/Ch7_tenin"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u306d\u3060\u3093",
+          "english": "price",
+          "audio_url": "../audio/y1/Ch7/Shopping/Ch7_nedan"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u304a\u3064\u308a",
+          "english": "change",
+          "audio_url": "../audio/y1/Ch7/Shopping/Ch7_otsuri"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u304a\u304b\u306d",
+          "english": "money",
+          "audio_url": "../audio/y1/Ch7/Shopping/Ch7_okane"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u306f\u3089\u3046",
+          "english": "to pay",
+          "audio_url": "../audio/y1/Ch7/Shopping/Ch7_harau"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u308a\u3087\u3046\u3057\u3085\u3046\u3057\u3087",
+          "english": "receipt (handwritten)",
+          "audio_url": "../audio/y1/Ch7/Shopping/Ch7_ryooshuusho"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u30ec\u30b7\u30fc\u30c8",
+          "english": "receipt (printed)",
+          "audio_url": "../audio/y1/Ch7/Shopping/Ch7_reshiito"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u30ec\u30b8",
+          "english": "cash register; cashier",
+          "audio_url": "../audio/y1/Ch7/Shopping/Ch7_reji"
+        }
+      ]
+    },
+    {
+      "Shops and Stores": [
+        {
+          "kanji": "",
+          "furigana": "\u30b7\u30e7\u30c3\u30d4\u30f3\u30b0",
+          "english": "shopping",
+          "audio_url": "../audio/y1/Ch7/Shops_Stores/Ch7_shoppingu"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3046\u308b",
+          "english": "to sell",
+          "audio_url": "../audio/y1/Ch7/Shops_Stores/Ch7_uru"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u304b\u3046",
+          "english": "to buy",
+          "audio_url": "../audio/y1/Ch7/Shops_Stores/Ch7_kau"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3057\u3087\u3046\u3066\u3093\u304c\u3044",
+          "english": "shopping district; shopping street",
+          "audio_url": "../audio/y1/Ch7/Shops_Stores/Ch7_shootengai"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u307f\u305b",
+          "english": "store; shop",
+          "audio_url": "../audio/y1/Ch7/Shops_Stores/Ch7_mise"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3044\u3061\u3070",
+          "english": "market; marketplace",
+          "audio_url": "../audio/y1/Ch7/Shops_Stores/Ch7_ichiba"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u306b\u304f\u3084",
+          "english": "butcher shop",
+          "audio_url": "../audio/y1/Ch7/Shops_Stores/Ch7_nikuya"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3055\u304b\u306a\u3084",
+          "english": "fish store",
+          "audio_url": "../audio/y1/Ch7/Shops_Stores/Ch7_sakanaya"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3084\u304a\u3084",
+          "english": "vegetable store; greengrocer",
+          "audio_url": "../audio/y1/Ch7/Shops_Stores/Ch7_yaoya"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u304f\u3060\u3082\u306e\u3084",
+          "english": "fruit store",
+          "audio_url": "../audio/y1/Ch7/Shops_Stores/Ch7_kudamonoya"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u30d1\u30f3\u3084",
+          "english": "bakery",
+          "audio_url": "../audio/y1/Ch7/Shops_Stores/Ch7_panya"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u307b\u3046\u305b\u304d\u3084",
+          "english": "jewelers",
+          "audio_url": "../audio/y1/Ch7/Shops_Stores/Ch7_hoosekiya"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u30b1\u30fc\u30ad\u3084",
+          "english": "pastry shop",
+          "audio_url": "../audio/y1/Ch7/Shops_Stores/Ch7_keekiya"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3055\u304b\u3084",
+          "english": "liquor store",
+          "audio_url": "../audio/y1/Ch7/Shops_Stores/Ch7_sakaya"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u307b\u3093\u3084",
+          "english": "bookstore",
+          "audio_url": "../audio/y1/Ch7/Shops_Stores/Ch7_honya"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3076\u3093\u307c\u3046\u3050\u3084",
+          "english": "stationary store",
+          "audio_url": "../audio/y1/Ch7/Shops_Stores/Ch7_bunbooguya"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u30ec\u30b3\u30fc\u30c9\u3084",
+          "english": "record store; music store",
+          "audio_url": "../audio/y1/Ch7/Shops_Stores/Ch7_rekoodoya"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3068\u3051\u3044\u3084",
+          "english": "watch shop",
+          "audio_url": "../audio/y1/Ch7/Shops_Stores/Ch7_tokeeya"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3067\u3093\u304d\u3084",
+          "english": "electric applicance store",
+          "audio_url": "../audio/y1/Ch7/Shops_Stores/Ch7_denkiya"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u304b\u3050\u3084",
+          "english": "furniture shop",
+          "audio_url": "../audio/y1/Ch7/Shops_Stores/Ch7_kaguya"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u306f\u306a\u3084",
+          "english": "flower shop; florist",
+          "audio_url": "../audio/y1/Ch7/Shops_Stores/Ch7_hanaya"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u304f\u3064\u3084",
+          "english": "shoe store",
+          "audio_url": "../audio/y1/Ch7/Shops_Stores/Ch7_kutsuya"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u304f\u3059\u308a\u3084",
+          "english": "drugstore",
+          "audio_url": "../audio/y1/Ch7/Shops_Stores/Ch7_kusuriya"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3084\u3063\u304d\u3087\u304f",
+          "english": "pharmacy",
+          "audio_url": "../audio/y1/Ch7/Shops_Stores/Ch7_yakkyoku"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u3081\u304c\u306d\u3084",
+          "english": "eyeglasses story; opticians",
+          "audio_url": "../audio/y1/Ch7/Shops_Stores/Ch7_meganeya"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u30af\u30ea\u30fc\u30cb\u30f3\u30b0\u3084",
+          "english": "dry cleaners",
+          "audio_url": "../audio/y1/Ch7/Shops_Stores/Ch7_kuriininguya"
+        },
+        {
+          "kanji": "",
+          "furigana": "\u30ab\u30e1\u30e9\u3084",
+          "english": "camera store",
+          "audio_url": "../audio/y1/Ch7/Shops_Stores/Ch7_kameraya"
+        }
+      ]
+    }
+  ]
+}
