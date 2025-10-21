@@ -72,7 +72,7 @@ def extract_pages(path: str, save_path: str):
 
 
 def main():
-    extract_pages("./vol1.json", "vol1_extracted.json")
+    extract_pages("./data/vol1.json", "./data/vol1_extracted.json")
 
 
 if __name__ == "__main__":

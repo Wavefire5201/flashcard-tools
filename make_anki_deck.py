@@ -24,8 +24,8 @@ yookosu_vocab_model = genanki.Model(
     ],
     templates=[
         {
-            "name": "Card 1",
-            "qfmt": '<div style="font-size: 40px;">{{Kanji}} - {{Furigana}} - {{Audio}}</div>',
+            "name": "Vocab Card",
+            "qfmt": '<div style="font-size: 40px;">{{Furigana}} -{{Kanji}}{{Audio}}</div>',
             "afmt": '{{FrontSide}}<hr><div style="font-size: 30px;">{{English}}</div>',
         },
     ],
@@ -113,14 +113,14 @@ def create_chapter_decks(file_name: str):
         output_path = f"./decks/chapter-decks/{chapter_name}.apkg"
         package.write_to_file(output_path)
 
-        print(f"✓ Created chapter deck: {output_path}\n")
+        print(f"Created chapter deck: {output_path}\n")
 
 
 def create_topic_decks(): ...
 
 
 def main():
-    create_chapter_decks("./vol1_extracted.json")
+    create_chapter_decks("./data/vol1_extracted.json")
 
 
 if __name__ == "__main__":
