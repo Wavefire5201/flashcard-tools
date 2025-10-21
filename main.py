@@ -1,8 +1,8 @@
-import re
 import json
+import re
+
 import requests
 from bs4 import BeautifulSoup
-
 
 BASE_URL = "https://laits.utexas.edu/japanese/joshu/vocabulary/vocabflashcard/"
 
@@ -56,9 +56,9 @@ def extract_vocab_page(metadata: dict) -> dict:
     return {metadata["title"]: result}
 
 
-def extract_pages(path: str):
+def extract_pages(path: str, save_path: str):
     chapters = {}
-    with open(path, "r") as f:
+    with open(path, "r", encoding="utf-8") as f:
         data: dict[str, list] = json.load(f)
         for chapter, lst in data.items():
             chapter_vocab = []
@@ -67,12 +67,12 @@ def extract_pages(path: str):
                 chapter_vocab.append(extracted)
             chapters[chapter] = chapter_vocab
 
-    with open("vol1_extracted.json", "w") as f:
+    with open(save_path, "w", encoding="utf-8") as f:
         json.dump(chapters, f, indent=2)
 
 
 def main():
-    extract_pages("./vol1.json")
+    extract_pages("./vol1.json", "vol1_extracted.json")
 
 
 if __name__ == "__main__":
