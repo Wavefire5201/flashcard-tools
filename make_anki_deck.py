@@ -1,118 +1,75 @@
 import json
+import os
 import random
+import urllib.request
+from pathlib import Path
 
 import genanki
+
+AUDIO_BASE_URL = "https://laits.utexas.edu/japanese/joshu/vocabulary/vocabflashcard/"
 
 
 def get_random_model_id() -> int:
     return random.randrange(1 << 30, 1 << 31)
 
 
-furiganaA = [
-    "おおきい／おおきな",
-    "ちいさい／ちいさな",
-    "おおい",
-    "すくない",
-    "あたらしい",
-    "ふるい",
-    "いい／よい",
-    "よくない",
-    "わるい",
-    "しずか（な）",
-    "うるさい",
-    "きれい（な）",
-    "きたない",
-    "ひろい",
-    "せまい",
-    "ひくい",
-    "たかい",
-    "やすい",
-    "おもしろい",
-    "ゆうめい（な）",
-    "にぎやか（な）",
-    "つまらない",
-    "むずかしい",
-    "やさしい",
-    "ながい",
-    "みじかい",
-    "おいしい",
-    "まずい",
-]
-
-englishA = [
-    "big; large",
-    "small",
-    "many",
-    "few",
-    "new",
-    "old",
-    "good",
-    "not good; bad",
-    "bad",
-    "quiet; peaceful",
-    "noisy; disturbing",
-    "beautiful; clean",
-    "dirty",
-    "spacious; wide",
-    "small (in area); narrow",
-    "low",
-    "high; expensive",
-    "inexpensive; cheap",
-    "interesting; funny",
-    "famous",
-    "lively",
-    "boring",
-    "difficult",
-    "easy; kind",
-    "long",
-    "short",
-    "delicious",
-    "bad tasting",
-]
-
-# Define a basic model (template for cards)
-my_model = genanki.Model(
-    1607392319,
-    "Japanese Adjectives Model",
+yookosu_vocab_model = genanki.Model(
+    1607392320,
+    "Vocab Model",
     fields=[
-        {"name": "Japanese"},
+        {"name": "Kanji"},
+        {"name": "Furigana"},
         {"name": "English"},
+        {"name": "Audio"},
     ],
     templates=[
         {
             "name": "Card 1",
-            "qfmt": '<div style="font-size: 40px;">{{Japanese}}</div>',
+            "qfmt": '<div style="font-size: 40px;">{{Kanji}} - {{Furigana}} - {{Audio}}</div>',
             "afmt": '{{FrontSide}}<hr><div style="font-size: 30px;">{{English}}</div>',
         },
     ],
 )
 
-# Create the deck
-my_deck = genanki.Deck(
-    get_random_model_id(),
-    "Japanese Adjectives",
-)
 
-# Add all cards
-for jp, en in zip(furiganaA, englishA):
-    note = genanki.Note(
-        model=my_model,
-        fields=[jp, en],
-    )
-    my_deck.add_note(note)
+def download_audio(url: str, output_dir: str) -> str:
+    """Download audio file and return the filename."""
+    if not url:
+        return ""
 
-# Optionally add deck package
-# genanki.Package(my_deck).write_to_file("Japanese_Adjectives.apkg")
+    # Create output directory if it doesn't exist
+    Path(output_dir).mkdir(parents=True, exist_ok=True)
 
-# print("✅ Deck successfully created: Japanese_Adjectives.apkg")
+    # Extract filename from URL
+    filename = url.split("/")[-1] + ".mp3"
+    filepath = os.path.join(output_dir, filename)
+
+    # Download if not already exists
+    if not os.path.exists(filepath):
+        try:
+            urllib.request.urlretrieve(f"{AUDIO_BASE_URL}{url}.mp3", filepath)
+            print(f"    Downloaded: {filename}")
+        except Exception as e:
+            print(f"    Error downloading {url}: {e}")
+            return ""
+
+    return filepath
 
 
 def create_chapter_decks(file_name: str):
     with open(file_name, "r") as f:
         file: dict = json.load(f)
 
+    audio_dir = "./audio_temp"
+
     for chapter_name, topics in file.items():
+        # Generate decks per chapter
+        chapter_deck = genanki.Deck(
+            get_random_model_id(),
+            f"Yookoso Vol.1 - {chapter_name}",
+        )
         print(f"Chapter: {chapter_name}")
+        media_files = []
         for topic in topics:
             for topic_name, vocab_list in topic.items():
                 print(f"    Topic: {topic_name}")
@@ -121,7 +78,42 @@ def create_chapter_decks(file_name: str):
                     furigana = vocab_item.get("furigana", "")
                     english = vocab_item.get("english", "")
                     audio_url = vocab_item.get("audio_url", "")
-                    print(f"        {kanji} ({furigana}) - {english} - {audio_url}")
+
+                    # Download audio file
+                    audio_filepath = download_audio(audio_url, audio_dir)
+
+                    # Get just the filename for the note field
+                    audio_filename = (
+                        os.path.basename(audio_filepath) if audio_filepath else ""
+                    )
+
+                    # Format audio reference for Anki
+                    audio_field = f"[sound:{audio_filename}]" if audio_filename else ""
+
+                    # Add to media files list
+                    if audio_filepath:
+                        media_files.append(audio_filepath)
+
+                    # Create note
+                    note = genanki.Note(
+                        model=yookosu_vocab_model,
+                        fields=[kanji, furigana, english, audio_field],
+                    )
+                    chapter_deck.add_note(note)
+
+                    print(f"        {kanji} ({furigana}) - {english}")
+
+        package = genanki.Package(chapter_deck)
+        package.media_files = media_files
+
+        # Ensure output directory exists
+        Path("./decks/chapter-decks").mkdir(parents=True, exist_ok=True)
+
+        # Write to file
+        output_path = f"./decks/chapter-decks/{chapter_name}.apkg"
+        package.write_to_file(output_path)
+
+        print(f"✓ Created chapter deck: {output_path}\n")
 
 
 def create_topic_decks(): ...

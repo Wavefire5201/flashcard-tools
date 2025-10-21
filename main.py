@@ -48,7 +48,7 @@ def extract_vocab_page(metadata: dict) -> dict:
             "kanji": kanji[i] if i < len(kanji) else "",
             "furigana": furigana[i] if i < len(furigana) else "",
             "english": english[i] if i < len(english) else "",
-            "audio_url": audio_url[i] if i < len(audio_url) else "",
+            "audio_url": audio_url[i][3:] if i < len(audio_url) else "",
         }
         for i in range(max(len(kanji), len(furigana), len(english), len(audio_url)))
     ]
